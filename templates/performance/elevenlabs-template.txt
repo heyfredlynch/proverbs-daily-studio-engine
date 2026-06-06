@@ -1,0 +1,11 @@
+{{scriptureReference}}
+
+{{verseText}}
+
+{{performanceVersion}}
+
+{{remember}}
+
+{{prayer}}
+
+{{todaysChallenge}}

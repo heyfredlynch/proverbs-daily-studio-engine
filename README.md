@@ -99,3 +99,17 @@ Obsidian Seeds are the primary Idea Reservoir input. Fred's FlynchMind vault rem
 iPhone Notes are secondary raw legacy input and live under `data/idea-reservoir/raw-notes/`.
 
 Future dashboard workflows should use the Idea Reservoir to suggest 1-3 possible episode directions for weekly planning by combining available ideas with unused verses and chapter coverage data.
+
+## Verse Recommendation Engine
+
+Verse Recommendation Engine v0.1 ranks each weekly planning row's unused candidate verses with transparent scoring.
+
+Run:
+
+```bash
+node src/planning/recommendVersesForWeeklyPlan.js
+```
+
+Output:
+
+`data/episode-manifest/weeklyPlanWithVerseRecommendations.json`

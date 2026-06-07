@@ -1,0 +1,1227 @@
+{
+  "rows": [
+    {
+      "date": "2026-06-07",
+      "dayOfMonth": 7,
+      "chapter": 7,
+      "coveragePercent": 37.04,
+      "candidateVerses": [
+        "Proverbs 7:1",
+        "Proverbs 7:3",
+        "Proverbs 7:5"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-002",
+          "ideaTitle": "Courting Disappointment",
+          "cleanSummary": "A seed about expectations, desire, and the way misplaced attachment can invite disappointment.",
+          "category": "Emotional Wisdom",
+          "matchReason": "possibleChapters includes chapter 7; verse themes match Proverbs 7:1, Proverbs 7:3, Proverbs 7:5",
+          "matchedCandidateVerses": [
+            "Proverbs 7:1",
+            "Proverbs 7:3",
+            "Proverbs 7:5"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 7:1",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 3,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 7:1",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Courting Disappointment points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Keeping wisdom close enough to guide daily choices.",
+          "themeKeywords": [
+            "instruction",
+            "memory",
+            "wisdom",
+            "obedience",
+            "attention"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "discipline",
+            "wisdom",
+            "memory"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-002",
+              "ideaTitle": "Courting Disappointment",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 7:3",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Courting Disappointment points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Letting wisdom become written into the heart, not just stored in the mind.",
+          "themeKeywords": [
+            "memory",
+            "heart",
+            "commitment",
+            "embodiment",
+            "wisdom"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Husband"
+          ],
+          "possibleMetaSubjects": [
+            "formation",
+            "memory",
+            "commitment"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-002",
+              "ideaTitle": "Courting Disappointment",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 7:5",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Courting Disappointment points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Wisdom protects desire from being led by the wrong voice.",
+          "themeKeywords": [
+            "desire",
+            "protection",
+            "temptation",
+            "discernment",
+            "relationships"
+          ],
+          "possiblePersonas": [
+            "Husband",
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "desire",
+            "discernment",
+            "relationships"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-002",
+              "ideaTitle": "Courting Disappointment",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "dayOfMonth": 8,
+      "chapter": 8,
+      "coveragePercent": 22.22,
+      "candidateVerses": [
+        "Proverbs 8:1",
+        "Proverbs 8:2",
+        "Proverbs 8:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-001",
+          "ideaTitle": "Grace In The Machine",
+          "cleanSummary": "A seed about finding grace inside systems, technology, automation, or mechanical processes.",
+          "category": "Technology",
+          "matchReason": "possibleChapters includes chapter 8; verse themes match Proverbs 8:1, Proverbs 8:2, Proverbs 8:3",
+          "matchedCandidateVerses": [
+            "Proverbs 8:1",
+            "Proverbs 8:2",
+            "Proverbs 8:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        },
+        {
+          "ideaId": "idea-003",
+          "ideaTitle": "Hum_Aw",
+          "cleanSummary": "A seed about holding humor and awe together as two necessary ingredients for deep engagement with life.",
+          "category": "Spiritual Formation",
+          "matchReason": "possibleChapters includes chapter 8; verse themes match Proverbs 8:1, Proverbs 8:2, Proverbs 8:3",
+          "matchedCandidateVerses": [
+            "Proverbs 8:1",
+            "Proverbs 8:2",
+            "Proverbs 8:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 8:1",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 3,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 8:1",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Grace In The Machine points at this candidate verse (Medium idea match)",
+            "Hum_Aw points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Wisdom is not hidden; it calls out where people live and decide.",
+          "themeKeywords": [
+            "wisdom",
+            "voice",
+            "public",
+            "calling",
+            "attention"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Musician"
+          ],
+          "possibleMetaSubjects": [
+            "wisdom",
+            "voice",
+            "public life"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-001",
+              "ideaTitle": "Grace In The Machine",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-003",
+              "ideaTitle": "Hum_Aw",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 8:2",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Grace In The Machine points at this candidate verse (Medium idea match)",
+            "Hum_Aw points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Wisdom stands at the crossroads where real decisions are made.",
+          "themeKeywords": [
+            "crossroads",
+            "visibility",
+            "decision",
+            "wisdom",
+            "public"
+          ],
+          "possiblePersonas": [
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "decision",
+            "wisdom",
+            "public life"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-001",
+              "ideaTitle": "Grace In The Machine",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-003",
+              "ideaTitle": "Hum_Aw",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 8:3",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Grace In The Machine points at this candidate verse (Medium idea match)",
+            "Hum_Aw points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Wisdom speaks at the entrance of culture, commerce, and community life.",
+          "themeKeywords": [
+            "gates",
+            "city",
+            "public",
+            "leadership",
+            "wisdom"
+          ],
+          "possiblePersonas": [
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "culture",
+            "leadership",
+            "wisdom"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-001",
+              "ideaTitle": "Grace In The Machine",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-003",
+              "ideaTitle": "Hum_Aw",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "dayOfMonth": 9,
+      "chapter": 9,
+      "coveragePercent": 50,
+      "candidateVerses": [
+        "Proverbs 9:4",
+        "Proverbs 9:8",
+        "Proverbs 9:9"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [],
+      "recommendedVerse": "Proverbs 9:4",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 3,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 9:4",
+          "recommendationScore": 35,
+          "recommendationConfidence": "Low",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata"
+          ],
+          "plainTheme": "Wisdom invites the unfinished and unformed to come learn.",
+          "themeKeywords": [
+            "invitation",
+            "simplicity",
+            "wisdom",
+            "learning",
+            "welcome"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "learning",
+            "humility",
+            "invitation"
+          ],
+          "matchedDirections": []
+        },
+        {
+          "scriptureReference": "Proverbs 9:8",
+          "recommendationScore": 35,
+          "recommendationConfidence": "Low",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata"
+          ],
+          "plainTheme": "A person's response to correction reveals their relationship with wisdom.",
+          "themeKeywords": [
+            "correction",
+            "rebuke",
+            "humility",
+            "response",
+            "wisdom"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "correction",
+            "humility",
+            "growth"
+          ],
+          "matchedDirections": []
+        },
+        {
+          "scriptureReference": "Proverbs 9:9",
+          "recommendationScore": 35,
+          "recommendationConfidence": "Low",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata"
+          ],
+          "plainTheme": "The wise keep becoming wiser because they remain teachable.",
+          "themeKeywords": [
+            "learning",
+            "growth",
+            "instruction",
+            "wisdom",
+            "teachable"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Musician"
+          ],
+          "possibleMetaSubjects": [
+            "learning",
+            "growth",
+            "discipline"
+          ],
+          "matchedDirections": []
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "dayOfMonth": 10,
+      "chapter": 10,
+      "coveragePercent": 28.13,
+      "candidateVerses": [
+        "Proverbs 10:1",
+        "Proverbs 10:3",
+        "Proverbs 10:4"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-010",
+          "ideaTitle": "Cheep Speech Ain't Free",
+          "cleanSummary": "A seed about speech that seems cheap but carries real cost and consequence.",
+          "category": "Speech And Consequence",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:3",
+          "matchedCandidateVerses": [
+            "Proverbs 10:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        },
+        {
+          "ideaId": "idea-008",
+          "ideaTitle": "Like A Rock",
+          "cleanSummary": "A seed about storms revealing rather than weakening the solid ground of Jesus' words.",
+          "category": "Faith And Formation",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:1, Proverbs 10:3, Proverbs 10:4",
+          "matchedCandidateVerses": [
+            "Proverbs 10:1",
+            "Proverbs 10:3",
+            "Proverbs 10:4"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        },
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:3",
+          "matchedCandidateVerses": [
+            "Proverbs 10:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 10:3",
+      "recommendationStatus": "Needs Fred Review",
+      "topTieCount": 1,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 10:3",
+          "recommendationScore": 185,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Cheep Speech Ain't Free points at this candidate verse (Medium idea match)",
+            "Like A Rock points at this candidate verse (Medium idea match)",
+            "Make The World A Better Place points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Wisdom trusts that appetite and provision are not outside God's concern.",
+          "themeKeywords": [
+            "hunger",
+            "provision",
+            "desire",
+            "justice",
+            "security"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "desire",
+            "provision",
+            "justice"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-010",
+              "ideaTitle": "Cheep Speech Ain't Free",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-011",
+              "ideaTitle": "Make The World A Better Place",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 10:1",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Like A Rock points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "A child's wisdom or foolishness affects the emotional life of the family.",
+          "themeKeywords": [
+            "family",
+            "wisdom",
+            "joy",
+            "grief",
+            "parenting"
+          ],
+          "possiblePersonas": [
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "family",
+            "wisdom",
+            "parenting"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 10:4",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Like A Rock points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Diligent hands shape outcomes over time.",
+          "themeKeywords": [
+            "work",
+            "diligence",
+            "poverty",
+            "responsibility",
+            "discipline"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Musician"
+          ],
+          "possibleMetaSubjects": [
+            "work",
+            "discipline",
+            "responsibility"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "dayOfMonth": 11,
+      "chapter": 11,
+      "coveragePercent": 32.26,
+      "candidateVerses": [
+        "Proverbs 11:1",
+        "Proverbs 11:2",
+        "Proverbs 11:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "matchReason": "possibleChapters includes chapter 11; verse themes match Proverbs 11:1, Proverbs 11:2, Proverbs 11:3",
+          "matchedCandidateVerses": [
+            "Proverbs 11:1",
+            "Proverbs 11:2",
+            "Proverbs 11:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 11:1",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 3,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 11:1",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Make The World A Better Place points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Integrity shows up in how we measure value and treat people fairly.",
+          "themeKeywords": [
+            "honesty",
+            "commerce",
+            "justice",
+            "integrity",
+            "measurement"
+          ],
+          "possiblePersonas": [
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "justice",
+            "integrity",
+            "honesty"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-011",
+              "ideaTitle": "Make The World A Better Place",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 11:2",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Make The World A Better Place points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Humility creates room for wisdom where pride brings collapse.",
+          "themeKeywords": [
+            "pride",
+            "humility",
+            "wisdom",
+            "shame",
+            "posture"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "humility",
+            "wisdom",
+            "pride"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-011",
+              "ideaTitle": "Make The World A Better Place",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 11:3",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Make The World A Better Place points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Character becomes a compass, for better or worse.",
+          "themeKeywords": [
+            "integrity",
+            "guidance",
+            "crookedness",
+            "direction",
+            "character"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "integrity",
+            "direction",
+            "character"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-011",
+              "ideaTitle": "Make The World A Better Place",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "dayOfMonth": 12,
+      "chapter": 12,
+      "coveragePercent": 28.57,
+      "candidateVerses": [
+        "Proverbs 12:1",
+        "Proverbs 12:2",
+        "Proverbs 12:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-010",
+          "ideaTitle": "Cheep Speech Ain't Free",
+          "cleanSummary": "A seed about speech that seems cheap but carries real cost and consequence.",
+          "category": "Speech And Consequence",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:2, Proverbs 12:3",
+          "matchedCandidateVerses": [
+            "Proverbs 12:2",
+            "Proverbs 12:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        },
+        {
+          "ideaId": "idea-008",
+          "ideaTitle": "Like A Rock",
+          "cleanSummary": "A seed about storms revealing rather than weakening the solid ground of Jesus' words.",
+          "category": "Faith And Formation",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:1, Proverbs 12:2, Proverbs 12:3",
+          "matchedCandidateVerses": [
+            "Proverbs 12:1",
+            "Proverbs 12:2",
+            "Proverbs 12:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        },
+        {
+          "ideaId": "idea-006",
+          "ideaTitle": "Stayin' Alive",
+          "cleanSummary": "A seed connecting CPR, rhythm, the song Stayin' Alive, and the idea that the right rhythm can help preserve life.",
+          "category": "Science And Life",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:1",
+          "matchedCandidateVerses": [
+            "Proverbs 12:1"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 12:1",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 3,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 12:1",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Like A Rock points at this candidate verse (Medium idea match)",
+            "Stayin' Alive points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Love for growth includes willingness to receive correction.",
+          "themeKeywords": [
+            "correction",
+            "discipline",
+            "learning",
+            "growth",
+            "instruction"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Musician"
+          ],
+          "possibleMetaSubjects": [
+            "discipline",
+            "learning",
+            "growth"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-006",
+              "ideaTitle": "Stayin' Alive",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 12:2",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Cheep Speech Ain't Free points at this candidate verse (Medium idea match)",
+            "Like A Rock points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Character and motive shape the kind of favor a life attracts.",
+          "themeKeywords": [
+            "favor",
+            "goodness",
+            "motives",
+            "character",
+            "approval"
+          ],
+          "possiblePersonas": [
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "character",
+            "favor",
+            "motives"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-010",
+              "ideaTitle": "Cheep Speech Ain't Free",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 12:3",
+          "recommendationScore": 135,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Cheep Speech Ain't Free points at this candidate verse (Medium idea match)",
+            "Like A Rock points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "A life built on the wrong foundation cannot stay rooted.",
+          "themeKeywords": [
+            "stability",
+            "foundation",
+            "wickedness",
+            "roots",
+            "righteousness"
+          ],
+          "possiblePersonas": [
+            "Father",
+            "Citizen"
+          ],
+          "possibleMetaSubjects": [
+            "foundation",
+            "stability",
+            "character"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-010",
+              "ideaTitle": "Cheep Speech Ain't Free",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            },
+            {
+              "ideaId": "idea-008",
+              "ideaTitle": "Like A Rock",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "dayOfMonth": 13,
+      "chapter": 13,
+      "coveragePercent": 36,
+      "candidateVerses": [
+        "Proverbs 13:1",
+        "Proverbs 13:2",
+        "Proverbs 13:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-002",
+          "ideaTitle": "Courting Disappointment",
+          "cleanSummary": "A seed about expectations, desire, and the way misplaced attachment can invite disappointment.",
+          "category": "Emotional Wisdom",
+          "matchReason": "possibleChapters includes chapter 13; verse themes match Proverbs 13:2, Proverbs 13:3",
+          "matchedCandidateVerses": [
+            "Proverbs 13:2",
+            "Proverbs 13:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating"
+        }
+      ],
+      "recommendedVerse": "Proverbs 13:2",
+      "recommendationStatus": "Top Tie - Needs Fred Review",
+      "topTieCount": 2,
+      "verseRecommendations": [
+        {
+          "scriptureReference": "Proverbs 13:2",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Courting Disappointment points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Words produce fruit, and appetite reveals what a person is feeding.",
+          "themeKeywords": [
+            "speech",
+            "fruit",
+            "desire",
+            "violence",
+            "consequence"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Musician"
+          ],
+          "possibleMetaSubjects": [
+            "speech",
+            "desire",
+            "consequence"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-002",
+              "ideaTitle": "Courting Disappointment",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 13:3",
+          "recommendationScore": 85,
+          "recommendationConfidence": "High",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "suggestedDirection"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "Courting Disappointment points at this candidate verse (Medium idea match)"
+          ],
+          "plainTheme": "Guarding speech can guard a life from unnecessary trouble.",
+          "themeKeywords": [
+            "speech",
+            "restraint",
+            "protection",
+            "mouth",
+            "consequence"
+          ],
+          "possiblePersonas": [
+            "Citizen",
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "speech",
+            "restraint",
+            "consequence"
+          ],
+          "matchedDirections": [
+            {
+              "ideaId": "idea-002",
+              "ideaTitle": "Courting Disappointment",
+              "matchScore": 65,
+              "matchConfidence": "Medium"
+            }
+          ]
+        },
+        {
+          "scriptureReference": "Proverbs 13:1",
+          "recommendationScore": 40,
+          "recommendationConfidence": "Low",
+          "recommendationSignals": [
+            "unusedCandidate",
+            "verseTheme",
+            "rowDirectionContext"
+          ],
+          "recommendationReasons": [
+            "verse is listed as an unused candidate for this planning row",
+            "verse has planning theme metadata",
+            "row has suggested directions, but none points at this exact verse yet"
+          ],
+          "plainTheme": "Wisdom begins with the willingness to listen and receive correction.",
+          "themeKeywords": [
+            "instruction",
+            "correction",
+            "listening",
+            "parenting",
+            "wisdom"
+          ],
+          "possiblePersonas": [
+            "Father"
+          ],
+          "possibleMetaSubjects": [
+            "correction",
+            "listening",
+            "wisdom"
+          ],
+          "matchedDirections": []
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-07T21:43:18.115Z"
+}

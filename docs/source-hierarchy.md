@@ -44,7 +44,40 @@ The Proverbs Daily Studio Engine uses a two-level source hierarchy so factual in
 - Use only as secondary style and editorial behavior corpus.
 - Never allow draft-only content to override canonical published records without human review.
 
-## 3. Parsing Strategy
+## 3. Idea Reservoir Source
+
+`data/idea-reservoir/`
+
+Primary input:
+
+`data/idea-reservoir/obsidian-seeds/`
+
+Secondary legacy input:
+
+`data/idea-reservoir/raw-notes/`
+
+### Purpose
+
+- Creative seeds
+- Story hooks
+- Quotes
+- Podcast references
+- Cultural metaphors
+- Future episode directions
+
+### Rules
+
+- Non-authoritative.
+- Suggestive only.
+- Cannot override canonical archive.
+- Can be selected, deferred, used, rejected, or archived.
+- Obsidian Seeds are the primary Idea Reservoir input.
+- iPhone Notes are secondary/raw legacy input.
+- The full FlynchMind vault should not be committed into this repo.
+- Only curated Proverbs Daily relevant markdown files should be copied or synced.
+- Keep Obsidian markdown links, tags, and backlinks if present.
+
+## 4. Parsing Strategy
 
 - Build canonical archive parser first.
 - Build editorial style analyzer second.

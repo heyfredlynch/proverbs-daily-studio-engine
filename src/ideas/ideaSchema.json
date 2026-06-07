@@ -1,0 +1,38 @@
+{
+  "id": "",
+  "title": "",
+  "rawText": "",
+  "cleanSummary": "",
+  "category": "",
+  "type": "",
+  "sourceName": "",
+  "sourceUrl": "",
+  "sourceDate": "",
+  "captureDate": "",
+  "tags": [],
+  "possibleChapters": [],
+  "possibleVerses": [],
+  "possiblePersonas": [],
+  "possibleMetaSubjects": [],
+  "status": "Available",
+  "statusValues": [
+    "Available",
+    "Suggested",
+    "Selected",
+    "Used",
+    "Deferred",
+    "Rejected",
+    "Archived"
+  ],
+  "priority": "Medium",
+  "priorityValues": [
+    "Low",
+    "Medium",
+    "High",
+    "Hot"
+  ],
+  "usedEpisodeId": "",
+  "usedScriptureReference": "",
+  "usedDate": "",
+  "notes": ""
+}

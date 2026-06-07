@@ -48,7 +48,17 @@ Common entry points:
 - Connections often emerge later
 - Not every seed needs immediate categorization
 
-## 6. Dashboard Vision
+## 6. Incubation And Delayed Insight
+
+Some Proverbs Daily ideas arrive as sparks before they arrive as conclusions.
+
+The system should protect that early stage. A seed may be captured long before Fred knows whether it belongs with a verse, a personal story, a cultural moment, a title, or nothing at all yet.
+
+Delayed insight is part of the creative process. Review sessions should allow old seeds to meet new life experience, new scripture attention, and new cultural context.
+
+Dormant does not mean dead. Dormant means the idea may be waiting for season, pressure, pain, joy, or clarity.
+
+## 7. Dashboard Vision
 
 The system should eventually suggest:
 

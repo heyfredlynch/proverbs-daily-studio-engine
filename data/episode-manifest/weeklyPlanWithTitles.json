@@ -1,0 +1,416 @@
+{
+  "rows": [
+    {
+      "date": "2026-06-07",
+      "dayOfMonth": 7,
+      "chapter": 7,
+      "coveragePercent": 37.04,
+      "candidateVerses": [
+        "Proverbs 7:1",
+        "Proverbs 7:3",
+        "Proverbs 7:5"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-002",
+          "ideaTitle": "Courting Disappointment",
+          "cleanSummary": "A seed about expectations, desire, and the way misplaced attachment can invite disappointment.",
+          "category": "Emotional Wisdom",
+          "matchReason": "possibleChapters includes chapter 7; verse themes match Proverbs 7:1, Proverbs 7:3, Proverbs 7:5",
+          "matchedCandidateVerses": [
+            "Proverbs 7:1",
+            "Proverbs 7:3",
+            "Proverbs 7:5"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Courting Disappointment",
+          "suggestedTitles": [
+            "Stop Dating Disappointment",
+            "When Desire Keeps Bad Company",
+            "The Invitation That Costs Too Much",
+            "You Can Want It And Still Walk Away",
+            "Don't Let Want Lead"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-08",
+      "dayOfMonth": 8,
+      "chapter": 8,
+      "coveragePercent": 22.22,
+      "candidateVerses": [
+        "Proverbs 8:1",
+        "Proverbs 8:2",
+        "Proverbs 8:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-001",
+          "ideaTitle": "Grace In The Machine",
+          "cleanSummary": "A seed about finding grace inside systems, technology, automation, or mechanical processes.",
+          "category": "Technology",
+          "matchReason": "possibleChapters includes chapter 8; verse themes match Proverbs 8:1, Proverbs 8:2, Proverbs 8:3",
+          "matchedCandidateVerses": [
+            "Proverbs 8:1",
+            "Proverbs 8:2",
+            "Proverbs 8:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Grace In The Machine",
+          "suggestedTitles": [
+            "When The Machine Still Needs Grace",
+            "Grace Between The Gears",
+            "Can Wisdom Live In The Machine?",
+            "The Ghost Isn't The Point",
+            "Still Human In The System"
+          ]
+        },
+        {
+          "ideaId": "idea-003",
+          "ideaTitle": "Hum_Aw",
+          "cleanSummary": "A seed about holding humor and awe together as two necessary ingredients for deep engagement with life.",
+          "category": "Spiritual Formation",
+          "matchReason": "possibleChapters includes chapter 8; verse themes match Proverbs 8:1, Proverbs 8:2, Proverbs 8:3",
+          "matchedCandidateVerses": [
+            "Proverbs 8:1",
+            "Proverbs 8:2",
+            "Proverbs 8:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Hum_Aw",
+          "suggestedTitles": [
+            "Laughing With Your Shoes Off",
+            "Awe Needs A Sense Of Humor",
+            "Wonder With A Smile",
+            "When Joy Learns Reverence",
+            "Keep The Laugh, Keep The Awe"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "dayOfMonth": 9,
+      "chapter": 9,
+      "coveragePercent": 50,
+      "candidateVerses": [
+        "Proverbs 9:4",
+        "Proverbs 9:8",
+        "Proverbs 9:9"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": []
+    },
+    {
+      "date": "2026-06-10",
+      "dayOfMonth": 10,
+      "chapter": 10,
+      "coveragePercent": 28.13,
+      "candidateVerses": [
+        "Proverbs 10:1",
+        "Proverbs 10:3",
+        "Proverbs 10:4"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-010",
+          "ideaTitle": "Cheep Speech Ain't Free",
+          "cleanSummary": "A seed about speech that seems cheap but carries real cost and consequence.",
+          "category": "Speech And Consequence",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:3",
+          "matchedCandidateVerses": [
+            "Proverbs 10:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Cheep Speech Ain't Free",
+          "suggestedTitles": [
+            "Cheap Talk Gets Expensive",
+            "That Mouth Has A Receipt",
+            "Free Speech Still Sends A Bill",
+            "Words Cost More Than You Think",
+            "Noise Has Consequences"
+          ]
+        },
+        {
+          "ideaId": "idea-008",
+          "ideaTitle": "Like A Rock",
+          "cleanSummary": "A seed about storms revealing rather than weakening the solid ground of Jesus' words.",
+          "category": "Faith And Formation",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:1, Proverbs 10:3, Proverbs 10:4",
+          "matchedCandidateVerses": [
+            "Proverbs 10:1",
+            "Proverbs 10:3",
+            "Proverbs 10:4"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Like A Rock",
+          "suggestedTitles": [
+            "What The Storm Revealed",
+            "Still Standing After The Washout",
+            "The Rock Was There The Whole Time",
+            "When The Topsoil Is Gone",
+            "Words That Weather Storms"
+          ]
+        },
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "matchReason": "possibleChapters includes chapter 10; verse themes match Proverbs 10:3",
+          "matchedCandidateVerses": [
+            "Proverbs 10:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Make The World A Better Place",
+          "suggestedTitles": [
+            "Small Goodness Travels",
+            "The Coffee Was Ministry",
+            "Love Changes The Weather",
+            "Make The Room Better",
+            "Goodness Has A Ripple"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "dayOfMonth": 11,
+      "chapter": 11,
+      "coveragePercent": 32.26,
+      "candidateVerses": [
+        "Proverbs 11:1",
+        "Proverbs 11:2",
+        "Proverbs 11:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "matchReason": "possibleChapters includes chapter 11; verse themes match Proverbs 11:1, Proverbs 11:2, Proverbs 11:3",
+          "matchedCandidateVerses": [
+            "Proverbs 11:1",
+            "Proverbs 11:2",
+            "Proverbs 11:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Make The World A Better Place",
+          "suggestedTitles": [
+            "Small Goodness Travels",
+            "The Coffee Was Ministry",
+            "Love Changes The Weather",
+            "Make The Room Better",
+            "Goodness Has A Ripple"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "dayOfMonth": 12,
+      "chapter": 12,
+      "coveragePercent": 28.57,
+      "candidateVerses": [
+        "Proverbs 12:1",
+        "Proverbs 12:2",
+        "Proverbs 12:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-010",
+          "ideaTitle": "Cheep Speech Ain't Free",
+          "cleanSummary": "A seed about speech that seems cheap but carries real cost and consequence.",
+          "category": "Speech And Consequence",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:2, Proverbs 12:3",
+          "matchedCandidateVerses": [
+            "Proverbs 12:2",
+            "Proverbs 12:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Cheep Speech Ain't Free",
+          "suggestedTitles": [
+            "Cheap Talk Gets Expensive",
+            "That Mouth Has A Receipt",
+            "Free Speech Still Sends A Bill",
+            "Words Cost More Than You Think",
+            "Noise Has Consequences"
+          ]
+        },
+        {
+          "ideaId": "idea-008",
+          "ideaTitle": "Like A Rock",
+          "cleanSummary": "A seed about storms revealing rather than weakening the solid ground of Jesus' words.",
+          "category": "Faith And Formation",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:1, Proverbs 12:2, Proverbs 12:3",
+          "matchedCandidateVerses": [
+            "Proverbs 12:1",
+            "Proverbs 12:2",
+            "Proverbs 12:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Like A Rock",
+          "suggestedTitles": [
+            "What The Storm Revealed",
+            "Still Standing After The Washout",
+            "The Rock Was There The Whole Time",
+            "When The Topsoil Is Gone",
+            "Words That Weather Storms"
+          ]
+        },
+        {
+          "ideaId": "idea-006",
+          "ideaTitle": "Stayin' Alive",
+          "cleanSummary": "A seed connecting CPR, rhythm, the song Stayin' Alive, and the idea that the right rhythm can help preserve life.",
+          "category": "Science And Life",
+          "matchReason": "possibleChapters includes chapter 12; verse themes match Proverbs 12:1",
+          "matchedCandidateVerses": [
+            "Proverbs 12:1"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Stayin' Alive",
+          "suggestedTitles": [
+            "Find The Rhythm That Saves You",
+            "When The Heart Loses The Beat",
+            "Wisdom Has A Pulse",
+            "Keep The Beat, Keep Breathing",
+            "The Rhythm Of Staying Alive"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "dayOfMonth": 13,
+      "chapter": 13,
+      "coveragePercent": 36,
+      "candidateVerses": [
+        "Proverbs 13:1",
+        "Proverbs 13:2",
+        "Proverbs 13:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": "",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-002",
+          "ideaTitle": "Courting Disappointment",
+          "cleanSummary": "A seed about expectations, desire, and the way misplaced attachment can invite disappointment.",
+          "category": "Emotional Wisdom",
+          "matchReason": "possibleChapters includes chapter 13; verse themes match Proverbs 13:2, Proverbs 13:3",
+          "matchedCandidateVerses": [
+            "Proverbs 13:2",
+            "Proverbs 13:3"
+          ],
+          "matchScore": 65,
+          "matchSignals": [
+            "chapter",
+            "verseTheme"
+          ],
+          "matchConfidence": "Medium",
+          "status": "Available",
+          "reviewStatus": "Incubating",
+          "seedTitle": "Courting Disappointment",
+          "suggestedTitles": [
+            "Stop Dating Disappointment",
+            "When Desire Keeps Bad Company",
+            "The Invitation That Costs Too Much",
+            "You Can Want It And Still Walk Away",
+            "Don't Let Want Lead"
+          ]
+        }
+      ]
+    }
+  ],
+  "lastUpdated": "2026-06-07T17:15:14.011Z"
+}

@@ -1,0 +1,193 @@
+{
+  "verseThemes": [
+    {
+      "scriptureReference": "Proverbs 7:1",
+      "chapter": 7,
+      "verse": 1,
+      "themeKeywords": ["instruction", "memory", "wisdom", "obedience", "attention"],
+      "plainTheme": "Keeping wisdom close enough to guide daily choices.",
+      "possiblePersonas": ["Father", "Citizen"],
+      "possibleMetaSubjects": ["discipline", "wisdom", "memory"]
+    },
+    {
+      "scriptureReference": "Proverbs 7:3",
+      "chapter": 7,
+      "verse": 3,
+      "themeKeywords": ["memory", "heart", "commitment", "embodiment", "wisdom"],
+      "plainTheme": "Letting wisdom become written into the heart, not just stored in the mind.",
+      "possiblePersonas": ["Father", "Husband"],
+      "possibleMetaSubjects": ["formation", "memory", "commitment"]
+    },
+    {
+      "scriptureReference": "Proverbs 7:5",
+      "chapter": 7,
+      "verse": 5,
+      "themeKeywords": ["desire", "protection", "temptation", "discernment", "relationships"],
+      "plainTheme": "Wisdom protects desire from being led by the wrong voice.",
+      "possiblePersonas": ["Husband", "Citizen"],
+      "possibleMetaSubjects": ["desire", "discernment", "relationships"]
+    },
+    {
+      "scriptureReference": "Proverbs 8:1",
+      "chapter": 8,
+      "verse": 1,
+      "themeKeywords": ["wisdom", "voice", "public", "calling", "attention"],
+      "plainTheme": "Wisdom is not hidden; it calls out where people live and decide.",
+      "possiblePersonas": ["Citizen", "Musician"],
+      "possibleMetaSubjects": ["wisdom", "voice", "public life"]
+    },
+    {
+      "scriptureReference": "Proverbs 8:2",
+      "chapter": 8,
+      "verse": 2,
+      "themeKeywords": ["crossroads", "visibility", "decision", "wisdom", "public"],
+      "plainTheme": "Wisdom stands at the crossroads where real decisions are made.",
+      "possiblePersonas": ["Citizen"],
+      "possibleMetaSubjects": ["decision", "wisdom", "public life"]
+    },
+    {
+      "scriptureReference": "Proverbs 8:3",
+      "chapter": 8,
+      "verse": 3,
+      "themeKeywords": ["gates", "city", "public", "leadership", "wisdom"],
+      "plainTheme": "Wisdom speaks at the entrance of culture, commerce, and community life.",
+      "possiblePersonas": ["Citizen"],
+      "possibleMetaSubjects": ["culture", "leadership", "wisdom"]
+    },
+    {
+      "scriptureReference": "Proverbs 9:4",
+      "chapter": 9,
+      "verse": 4,
+      "themeKeywords": ["invitation", "simplicity", "wisdom", "learning", "welcome"],
+      "plainTheme": "Wisdom invites the unfinished and unformed to come learn.",
+      "possiblePersonas": ["Father", "Citizen"],
+      "possibleMetaSubjects": ["learning", "humility", "invitation"]
+    },
+    {
+      "scriptureReference": "Proverbs 9:8",
+      "chapter": 9,
+      "verse": 8,
+      "themeKeywords": ["correction", "rebuke", "humility", "response", "wisdom"],
+      "plainTheme": "A person's response to correction reveals their relationship with wisdom.",
+      "possiblePersonas": ["Father", "Citizen"],
+      "possibleMetaSubjects": ["correction", "humility", "growth"]
+    },
+    {
+      "scriptureReference": "Proverbs 9:9",
+      "chapter": 9,
+      "verse": 9,
+      "themeKeywords": ["learning", "growth", "instruction", "wisdom", "teachable"],
+      "plainTheme": "The wise keep becoming wiser because they remain teachable.",
+      "possiblePersonas": ["Father", "Musician"],
+      "possibleMetaSubjects": ["learning", "growth", "discipline"]
+    },
+    {
+      "scriptureReference": "Proverbs 10:1",
+      "chapter": 10,
+      "verse": 1,
+      "themeKeywords": ["family", "wisdom", "joy", "grief", "parenting"],
+      "plainTheme": "A child's wisdom or foolishness affects the emotional life of the family.",
+      "possiblePersonas": ["Father"],
+      "possibleMetaSubjects": ["family", "wisdom", "parenting"]
+    },
+    {
+      "scriptureReference": "Proverbs 10:3",
+      "chapter": 10,
+      "verse": 3,
+      "themeKeywords": ["hunger", "provision", "desire", "justice", "security"],
+      "plainTheme": "Wisdom trusts that appetite and provision are not outside God's concern.",
+      "possiblePersonas": ["Citizen", "Father"],
+      "possibleMetaSubjects": ["desire", "provision", "justice"]
+    },
+    {
+      "scriptureReference": "Proverbs 10:4",
+      "chapter": 10,
+      "verse": 4,
+      "themeKeywords": ["work", "diligence", "poverty", "responsibility", "discipline"],
+      "plainTheme": "Diligent hands shape outcomes over time.",
+      "possiblePersonas": ["Father", "Musician"],
+      "possibleMetaSubjects": ["work", "discipline", "responsibility"]
+    },
+    {
+      "scriptureReference": "Proverbs 11:1",
+      "chapter": 11,
+      "verse": 1,
+      "themeKeywords": ["honesty", "commerce", "justice", "integrity", "measurement"],
+      "plainTheme": "Integrity shows up in how we measure value and treat people fairly.",
+      "possiblePersonas": ["Citizen"],
+      "possibleMetaSubjects": ["justice", "integrity", "honesty"]
+    },
+    {
+      "scriptureReference": "Proverbs 11:2",
+      "chapter": 11,
+      "verse": 2,
+      "themeKeywords": ["pride", "humility", "wisdom", "shame", "posture"],
+      "plainTheme": "Humility creates room for wisdom where pride brings collapse.",
+      "possiblePersonas": ["Citizen", "Father"],
+      "possibleMetaSubjects": ["humility", "wisdom", "pride"]
+    },
+    {
+      "scriptureReference": "Proverbs 11:3",
+      "chapter": 11,
+      "verse": 3,
+      "themeKeywords": ["integrity", "guidance", "crookedness", "direction", "character"],
+      "plainTheme": "Character becomes a compass, for better or worse.",
+      "possiblePersonas": ["Citizen", "Father"],
+      "possibleMetaSubjects": ["integrity", "direction", "character"]
+    },
+    {
+      "scriptureReference": "Proverbs 12:1",
+      "chapter": 12,
+      "verse": 1,
+      "themeKeywords": ["correction", "discipline", "learning", "growth", "instruction"],
+      "plainTheme": "Love for growth includes willingness to receive correction.",
+      "possiblePersonas": ["Father", "Musician"],
+      "possibleMetaSubjects": ["discipline", "learning", "growth"]
+    },
+    {
+      "scriptureReference": "Proverbs 12:2",
+      "chapter": 12,
+      "verse": 2,
+      "themeKeywords": ["favor", "goodness", "motives", "character", "approval"],
+      "plainTheme": "Character and motive shape the kind of favor a life attracts.",
+      "possiblePersonas": ["Citizen"],
+      "possibleMetaSubjects": ["character", "favor", "motives"]
+    },
+    {
+      "scriptureReference": "Proverbs 12:3",
+      "chapter": 12,
+      "verse": 3,
+      "themeKeywords": ["stability", "foundation", "wickedness", "roots", "righteousness"],
+      "plainTheme": "A life built on the wrong foundation cannot stay rooted.",
+      "possiblePersonas": ["Father", "Citizen"],
+      "possibleMetaSubjects": ["foundation", "stability", "character"]
+    },
+    {
+      "scriptureReference": "Proverbs 13:1",
+      "chapter": 13,
+      "verse": 1,
+      "themeKeywords": ["instruction", "correction", "listening", "parenting", "wisdom"],
+      "plainTheme": "Wisdom begins with the willingness to listen and receive correction.",
+      "possiblePersonas": ["Father"],
+      "possibleMetaSubjects": ["correction", "listening", "wisdom"]
+    },
+    {
+      "scriptureReference": "Proverbs 13:2",
+      "chapter": 13,
+      "verse": 2,
+      "themeKeywords": ["speech", "fruit", "desire", "violence", "consequence"],
+      "plainTheme": "Words produce fruit, and appetite reveals what a person is feeding.",
+      "possiblePersonas": ["Citizen", "Musician"],
+      "possibleMetaSubjects": ["speech", "desire", "consequence"]
+    },
+    {
+      "scriptureReference": "Proverbs 13:3",
+      "chapter": 13,
+      "verse": 3,
+      "themeKeywords": ["speech", "restraint", "protection", "mouth", "consequence"],
+      "plainTheme": "Guarding speech can guard a life from unnecessary trouble.",
+      "possiblePersonas": ["Citizen", "Father"],
+      "possibleMetaSubjects": ["speech", "restraint", "consequence"]
+    }
+  ]
+}

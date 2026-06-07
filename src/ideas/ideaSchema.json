@@ -24,6 +24,17 @@
     "Rejected",
     "Archived"
   ],
+  "reviewStatus": "Captured",
+  "reviewStatusValues": [
+    "Captured",
+    "Incubating",
+    "Reviewing",
+    "Suggested",
+    "Selected",
+    "Used",
+    "Dormant",
+    "Archived"
+  ],
   "priority": "Medium",
   "priorityValues": [
     "Low",

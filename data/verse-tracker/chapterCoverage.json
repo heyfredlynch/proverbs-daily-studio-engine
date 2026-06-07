@@ -1,0 +1,253 @@
+{
+  "chapters": [
+    {
+      "chapter": 1,
+      "totalVerses": 33,
+      "coveredVerses": 11,
+      "remainingVerses": 22,
+      "coveragePercent": 33.33,
+      "lastUpdated": "2026-06-07T15:14:36.024Z"
+    },
+    {
+      "chapter": 2,
+      "totalVerses": 22,
+      "coveredVerses": 9,
+      "remainingVerses": 13,
+      "coveragePercent": 40.91,
+      "lastUpdated": "2026-06-07T15:14:36.024Z"
+    },
+    {
+      "chapter": 3,
+      "totalVerses": 35,
+      "coveredVerses": 11,
+      "remainingVerses": 24,
+      "coveragePercent": 31.43,
+      "lastUpdated": "2026-06-07T15:14:36.024Z"
+    },
+    {
+      "chapter": 4,
+      "totalVerses": 27,
+      "coveredVerses": 8,
+      "remainingVerses": 19,
+      "coveragePercent": 29.63,
+      "lastUpdated": "2026-06-07T15:14:36.024Z"
+    },
+    {
+      "chapter": 5,
+      "totalVerses": 23,
+      "coveredVerses": 8,
+      "remainingVerses": 15,
+      "coveragePercent": 34.78,
+      "lastUpdated": "2026-06-07T15:14:36.025Z"
+    },
+    {
+      "chapter": 6,
+      "totalVerses": 35,
+      "coveredVerses": 9,
+      "remainingVerses": 26,
+      "coveragePercent": 25.71,
+      "lastUpdated": "2026-06-07T15:14:36.025Z"
+    },
+    {
+      "chapter": 7,
+      "totalVerses": 27,
+      "coveredVerses": 10,
+      "remainingVerses": 17,
+      "coveragePercent": 37.04,
+      "lastUpdated": "2026-06-07T15:14:36.026Z"
+    },
+    {
+      "chapter": 8,
+      "totalVerses": 36,
+      "coveredVerses": 8,
+      "remainingVerses": 28,
+      "coveragePercent": 22.22,
+      "lastUpdated": "2026-06-07T15:14:36.026Z"
+    },
+    {
+      "chapter": 9,
+      "totalVerses": 18,
+      "coveredVerses": 9,
+      "remainingVerses": 9,
+      "coveragePercent": 50,
+      "lastUpdated": "2026-06-07T15:14:36.026Z"
+    },
+    {
+      "chapter": 10,
+      "totalVerses": 32,
+      "coveredVerses": 9,
+      "remainingVerses": 23,
+      "coveragePercent": 28.13,
+      "lastUpdated": "2026-06-07T15:14:36.026Z"
+    },
+    {
+      "chapter": 11,
+      "totalVerses": 31,
+      "coveredVerses": 10,
+      "remainingVerses": 21,
+      "coveragePercent": 32.26,
+      "lastUpdated": "2026-06-07T15:14:36.026Z"
+    },
+    {
+      "chapter": 12,
+      "totalVerses": 28,
+      "coveredVerses": 8,
+      "remainingVerses": 20,
+      "coveragePercent": 28.57,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 13,
+      "totalVerses": 25,
+      "coveredVerses": 9,
+      "remainingVerses": 16,
+      "coveragePercent": 36,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 14,
+      "totalVerses": 35,
+      "coveredVerses": 8,
+      "remainingVerses": 27,
+      "coveragePercent": 22.86,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 15,
+      "totalVerses": 33,
+      "coveredVerses": 9,
+      "remainingVerses": 24,
+      "coveragePercent": 27.27,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 16,
+      "totalVerses": 33,
+      "coveredVerses": 9,
+      "remainingVerses": 24,
+      "coveragePercent": 27.27,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 17,
+      "totalVerses": 28,
+      "coveredVerses": 9,
+      "remainingVerses": 19,
+      "coveragePercent": 32.14,
+      "lastUpdated": "2026-06-07T15:14:36.027Z"
+    },
+    {
+      "chapter": 18,
+      "totalVerses": 24,
+      "coveredVerses": 9,
+      "remainingVerses": 15,
+      "coveragePercent": 37.5,
+      "lastUpdated": "2026-06-07T15:14:36.028Z"
+    },
+    {
+      "chapter": 19,
+      "totalVerses": 29,
+      "coveredVerses": 10,
+      "remainingVerses": 19,
+      "coveragePercent": 34.48,
+      "lastUpdated": "2026-06-07T15:14:36.028Z"
+    },
+    {
+      "chapter": 20,
+      "totalVerses": 30,
+      "coveredVerses": 6,
+      "remainingVerses": 24,
+      "coveragePercent": 20,
+      "lastUpdated": "2026-06-07T15:14:36.028Z"
+    },
+    {
+      "chapter": 21,
+      "totalVerses": 31,
+      "coveredVerses": 8,
+      "remainingVerses": 23,
+      "coveragePercent": 25.81,
+      "lastUpdated": "2026-06-07T15:14:36.028Z"
+    },
+    {
+      "chapter": 22,
+      "totalVerses": 29,
+      "coveredVerses": 10,
+      "remainingVerses": 19,
+      "coveragePercent": 34.48,
+      "lastUpdated": "2026-06-07T15:14:36.028Z"
+    },
+    {
+      "chapter": 23,
+      "totalVerses": 35,
+      "coveredVerses": 9,
+      "remainingVerses": 26,
+      "coveragePercent": 25.71,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 24,
+      "totalVerses": 34,
+      "coveredVerses": 8,
+      "remainingVerses": 26,
+      "coveragePercent": 23.53,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 25,
+      "totalVerses": 28,
+      "coveredVerses": 10,
+      "remainingVerses": 18,
+      "coveragePercent": 35.71,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 26,
+      "totalVerses": 28,
+      "coveredVerses": 9,
+      "remainingVerses": 19,
+      "coveragePercent": 32.14,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 27,
+      "totalVerses": 27,
+      "coveredVerses": 7,
+      "remainingVerses": 20,
+      "coveragePercent": 25.93,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 28,
+      "totalVerses": 28,
+      "coveredVerses": 9,
+      "remainingVerses": 19,
+      "coveragePercent": 32.14,
+      "lastUpdated": "2026-06-07T15:14:36.029Z"
+    },
+    {
+      "chapter": 29,
+      "totalVerses": 27,
+      "coveredVerses": 8,
+      "remainingVerses": 19,
+      "coveragePercent": 29.63,
+      "lastUpdated": "2026-06-07T15:14:36.030Z"
+    },
+    {
+      "chapter": 30,
+      "totalVerses": 33,
+      "coveredVerses": 10,
+      "remainingVerses": 23,
+      "coveragePercent": 30.3,
+      "lastUpdated": "2026-06-07T15:14:36.030Z"
+    },
+    {
+      "chapter": 31,
+      "totalVerses": 31,
+      "coveredVerses": 6,
+      "remainingVerses": 25,
+      "coveragePercent": 19.35,
+      "lastUpdated": "2026-06-07T15:14:36.030Z"
+    }
+  ],
+  "lastUpdated": "2026-06-07T15:14:36.034Z"
+}

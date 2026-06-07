@@ -1,0 +1,103 @@
+{
+  "rows": [
+    {
+      "date": "2026-06-07",
+      "dayOfMonth": 7,
+      "chapter": 7,
+      "coveragePercent": 37.04,
+      "candidateVerses": [
+        "Proverbs 7:1",
+        "Proverbs 7:3",
+        "Proverbs 7:5"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-08",
+      "dayOfMonth": 8,
+      "chapter": 8,
+      "coveragePercent": 22.22,
+      "candidateVerses": [
+        "Proverbs 8:1",
+        "Proverbs 8:2",
+        "Proverbs 8:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-09",
+      "dayOfMonth": 9,
+      "chapter": 9,
+      "coveragePercent": 50,
+      "candidateVerses": [
+        "Proverbs 9:4",
+        "Proverbs 9:8",
+        "Proverbs 9:9"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-10",
+      "dayOfMonth": 10,
+      "chapter": 10,
+      "coveragePercent": 28.13,
+      "candidateVerses": [
+        "Proverbs 10:1",
+        "Proverbs 10:3",
+        "Proverbs 10:4"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-11",
+      "dayOfMonth": 11,
+      "chapter": 11,
+      "coveragePercent": 32.26,
+      "candidateVerses": [
+        "Proverbs 11:1",
+        "Proverbs 11:2",
+        "Proverbs 11:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-12",
+      "dayOfMonth": 12,
+      "chapter": 12,
+      "coveragePercent": 28.57,
+      "candidateVerses": [
+        "Proverbs 12:1",
+        "Proverbs 12:2",
+        "Proverbs 12:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    },
+    {
+      "date": "2026-06-13",
+      "dayOfMonth": 13,
+      "chapter": 13,
+      "coveragePercent": 36,
+      "candidateVerses": [
+        "Proverbs 13:1",
+        "Proverbs 13:2",
+        "Proverbs 13:3"
+      ],
+      "status": "Planning",
+      "selectedVerse": "",
+      "notes": ""
+    }
+  ],
+  "lastUpdated": "2026-06-07T15:27:58.360Z"
+}

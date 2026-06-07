@@ -35,3 +35,4 @@ The system should eventually answer:
 - Do not delete or rewrite usage records automatically.
 - Track intentional reuse separately when `CALL_AUDIBLE` is used.
 - Keep coverage separate from idea matching and editorial style analysis.
+- Review invalid and out-of-range references through `docs/reference-review-workflow.md` before applying corrections.

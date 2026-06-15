@@ -1,0 +1,366 @@
+{
+  "week": "Season Two Week Two",
+  "rows": [
+    {
+      "date": "2026-06-14",
+      "day": "Sunday",
+      "dayOfMonth": 14,
+      "chapter": 14,
+      "candidateUnusedVerses": [
+        "Proverbs 14:15",
+        "Proverbs 14:26",
+        "Proverbs 14:29",
+        "Proverbs 14:30",
+        "Proverbs 14:31"
+      ],
+      "coverageNotes": "Chapter 14 has 8 covered verses and 27 remaining unused verses. No local verse-theme metadata exists yet for chapter 14.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 14:30",
+      "recommendation": {
+        "score": 88,
+        "confidence": "Medium",
+        "reasoning": "Strong because the verse gives a concrete body image, connects to the Stayin' Alive/heart seed, and creates a practical emotional-health episode without becoming generic."
+      },
+      "ties": [
+        "Proverbs 14:29"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 14 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-006",
+          "ideaTitle": "Stayin' Alive",
+          "cleanSummary": "A seed connecting CPR, rhythm, heart, music, and the idea that the right inner rhythm helps preserve life.",
+          "category": "Science And Life",
+          "persona": "Musician",
+          "metaSubject": "emotional health",
+          "matchedCandidateVerses": [
+            "Proverbs 14:30"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Quiet Bones",
+        "The Rhythm Under Your Skin",
+        "When Envy Gets In The Body",
+        "A Sound Heart",
+        "The Inner Pulse"
+      ],
+      "recommendedWorkingTitle": "Quiet Bones",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-15",
+      "day": "Monday",
+      "dayOfMonth": 15,
+      "chapter": 15,
+      "candidateUnusedVerses": [
+        "Proverbs 15:1",
+        "Proverbs 15:2",
+        "Proverbs 15:3",
+        "Proverbs 15:17",
+        "Proverbs 15:23"
+      ],
+      "coverageNotes": "Chapter 15 has 9 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 15.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 15:1",
+      "recommendation": {
+        "score": 92,
+        "confidence": "High",
+        "reasoning": "Very strong because the verse is familiar, highly practical, and fits the Make The World A Better Place seed through small speech choices that change the atmosphere."
+      },
+      "ties": [],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 15 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "persona": "Citizen",
+          "metaSubject": "speech and atmosphere",
+          "matchedCandidateVerses": [
+            "Proverbs 15:1"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Turn Down The Heat",
+        "The Volume Of Peace",
+        "Soft Answers, Strong Rooms",
+        "Change The Weather",
+        "Lower The Flame"
+      ],
+      "recommendedWorkingTitle": "Turn Down The Heat",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-16",
+      "day": "Tuesday",
+      "dayOfMonth": 16,
+      "chapter": 16,
+      "candidateUnusedVerses": [
+        "Proverbs 16:1",
+        "Proverbs 16:2",
+        "Proverbs 16:5",
+        "Proverbs 16:9",
+        "Proverbs 16:20"
+      ],
+      "coverageNotes": "Chapter 16 has 9 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 16.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 16:9",
+      "recommendation": {
+        "score": 90,
+        "confidence": "High",
+        "reasoning": "Strong because it combines planning, technology/GPS imagery, and Fred's participation-over-control theological instinct."
+      },
+      "ties": [
+        "Proverbs 16:1"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 16 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-001",
+          "ideaTitle": "Grace In The Machine",
+          "cleanSummary": "A seed about finding grace inside systems, technology, automation, or mechanical processes.",
+          "category": "Technology",
+          "persona": "Citizen",
+          "metaSubject": "guidance",
+          "matchedCandidateVerses": [
+            "Proverbs 16:9"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "The Route Recalculates",
+        "Grace In The Detour",
+        "Plans With A Pulse",
+        "When God Handles The Steps",
+        "The Map Is Not The Master"
+      ],
+      "recommendedWorkingTitle": "The Route Recalculates",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-17",
+      "day": "Wednesday",
+      "dayOfMonth": 17,
+      "chapter": 17,
+      "candidateUnusedVerses": [
+        "Proverbs 17:1",
+        "Proverbs 17:6",
+        "Proverbs 17:9",
+        "Proverbs 17:10",
+        "Proverbs 17:14"
+      ],
+      "coverageNotes": "Chapter 17 has 9 covered verses and 19 remaining unused verses. No local verse-theme metadata exists yet for chapter 17.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 17:1",
+      "recommendation": {
+        "score": 86,
+        "confidence": "Medium",
+        "reasoning": "Strong because the verse gives a table image, household emotional wisdom, and a clean practical application around peace over performance."
+      },
+      "ties": [
+        "Proverbs 17:9"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 17 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-011",
+          "ideaTitle": "Make The World A Better Place",
+          "cleanSummary": "A seed about small forms of goodness, love, and delight changing the atmosphere people carry into the world.",
+          "category": "Everyday Wisdom",
+          "persona": "Husband",
+          "metaSubject": "home atmosphere",
+          "matchedCandidateVerses": [
+            "Proverbs 17:1"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Quiet Tastes Better",
+        "A Better Kind Of Table",
+        "Peace Is Part Of The Meal",
+        "When The House Is Too Loud",
+        "Dry Bread, Quiet Room"
+      ],
+      "recommendedWorkingTitle": "Quiet Tastes Better",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-18",
+      "day": "Thursday",
+      "dayOfMonth": 18,
+      "chapter": 18,
+      "candidateUnusedVerses": [
+        "Proverbs 18:1",
+        "Proverbs 18:10",
+        "Proverbs 18:15",
+        "Proverbs 18:20",
+        "Proverbs 18:21"
+      ],
+      "coverageNotes": "Chapter 18 has 9 covered verses and 15 remaining unused verses. No local verse-theme metadata exists yet for chapter 18.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 18:21",
+      "recommendation": {
+        "score": 94,
+        "confidence": "High",
+        "reasoning": "Very strong because it is vivid, practical, and directly matches the Cheep Speech Ain't Free seed without repeating the Week One appetite title."
+      },
+      "ties": [],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 18 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-010",
+          "ideaTitle": "Cheep Speech Ain't Free",
+          "cleanSummary": "A seed about speech that seems cheap but carries real cost and consequence.",
+          "category": "Speech And Consequence",
+          "persona": "Citizen",
+          "metaSubject": "speech",
+          "matchedCandidateVerses": [
+            "Proverbs 18:21"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Words With Teeth",
+        "That Mouth Has A Receipt",
+        "Cheap Talk Gets Expensive",
+        "The Fruit Of Your Mouth",
+        "Speech Is Never Free"
+      ],
+      "recommendedWorkingTitle": "Words With Teeth",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-19",
+      "day": "Friday",
+      "dayOfMonth": 19,
+      "chapter": 19,
+      "candidateUnusedVerses": [
+        "Proverbs 19:1",
+        "Proverbs 19:3",
+        "Proverbs 19:20",
+        "Proverbs 19:21",
+        "Proverbs 19:23"
+      ],
+      "coverageNotes": "Chapter 19 has 10 covered verses and 19 remaining unused verses. No local verse-theme metadata exists yet for chapter 19.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 19:21",
+      "recommendation": {
+        "score": 87,
+        "confidence": "Medium",
+        "reasoning": "Strong because it pairs well with creative process, failed attempts, and plans submitted to God's steadier counsel."
+      },
+      "ties": [
+        "Proverbs 19:20"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 19 theme metadata.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-009",
+          "ideaTitle": "Risk Take - Miss Take - This Take",
+          "cleanSummary": "A seed about learning through failed attempts until mistakes become the map toward the right take.",
+          "category": "Creative Process",
+          "persona": "Musician",
+          "metaSubject": "discernment",
+          "matchedCandidateVerses": [
+            "Proverbs 19:21"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Plans With Open Hands",
+        "Many Takes, One Counsel",
+        "The Take That Stands",
+        "When Your Plan Meets Counsel",
+        "Hold The Blueprint Lightly"
+      ],
+      "recommendedWorkingTitle": "Plans With Open Hands",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    },
+    {
+      "date": "2026-06-20",
+      "day": "Saturday",
+      "dayOfMonth": 20,
+      "chapter": 20,
+      "candidateUnusedVerses": [
+        "Proverbs 20:4",
+        "Proverbs 20:9",
+        "Proverbs 20:18",
+        "Proverbs 20:24",
+        "Proverbs 20:27"
+      ],
+      "coverageNotes": "Chapter 20 has 6 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 20.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 20:24",
+      "recommendation": {
+        "score": 84,
+        "confidence": "Medium",
+        "reasoning": "Strong but a little more abstract. It creates a good hidden-guidance episode and matches the See It And Forget It seed, but it needs Fred texture to avoid sounding too similar to Proverbs 16:9."
+      },
+      "ties": [
+        "Proverbs 20:18"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text, missing chapter 20 theme metadata, and thematic overlap with June 16.",
+      "suggestedDirections": [
+        {
+          "ideaId": "idea-005",
+          "ideaTitle": "See It And Forget It",
+          "cleanSummary": "A seed about hidden growth, unseen strength, and formation that happens away from public attention.",
+          "category": "Hidden Growth",
+          "persona": "Father",
+          "metaSubject": "hidden guidance",
+          "matchedCandidateVerses": [
+            "Proverbs 20:24"
+          ],
+          "matchConfidence": "Manual Producer Pass",
+          "matchReason": "Matched by chapter, idea reservoir possibilities, visible verse concept, and Season Two draft needs."
+        }
+      ],
+      "titleSuggestions": [
+        "Walking Without The Whole Map",
+        "The Map Is Not The Master",
+        "When The Way Is Hidden",
+        "Guided Before You Get It",
+        "Steps You Understand Later"
+      ],
+      "recommendedWorkingTitle": "Walking Without The Whole Map",
+      "duplicateTitleWarning": "No exact Week One title repeat. Season One title-history check should be confirmed before approval.",
+      "callAudible": false
+    }
+  ],
+  "lastUpdated": "2026-06-14T12:00:00.000-05:00"
+}

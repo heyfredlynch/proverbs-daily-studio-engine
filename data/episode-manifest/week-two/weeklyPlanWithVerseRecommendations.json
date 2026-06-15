@@ -1,0 +1,191 @@
+{
+  "week": "Season Two Week Two",
+  "rows": [
+    {
+      "date": "2026-06-14",
+      "day": "Sunday",
+      "dayOfMonth": 14,
+      "chapter": 14,
+      "candidateUnusedVerses": [
+        "Proverbs 14:15",
+        "Proverbs 14:26",
+        "Proverbs 14:29",
+        "Proverbs 14:30",
+        "Proverbs 14:31"
+      ],
+      "coverageNotes": "Chapter 14 has 8 covered verses and 27 remaining unused verses. No local verse-theme metadata exists yet for chapter 14.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 14:30",
+      "recommendation": {
+        "score": 88,
+        "confidence": "Medium",
+        "reasoning": "Strong because the verse gives a concrete body image, connects to the Stayin' Alive/heart seed, and creates a practical emotional-health episode without becoming generic."
+      },
+      "ties": [
+        "Proverbs 14:29"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 14 theme metadata."
+    },
+    {
+      "date": "2026-06-15",
+      "day": "Monday",
+      "dayOfMonth": 15,
+      "chapter": 15,
+      "candidateUnusedVerses": [
+        "Proverbs 15:1",
+        "Proverbs 15:2",
+        "Proverbs 15:3",
+        "Proverbs 15:17",
+        "Proverbs 15:23"
+      ],
+      "coverageNotes": "Chapter 15 has 9 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 15.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 15:1",
+      "recommendation": {
+        "score": 92,
+        "confidence": "High",
+        "reasoning": "Very strong because the verse is familiar, highly practical, and fits the Make The World A Better Place seed through small speech choices that change the atmosphere."
+      },
+      "ties": [],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 15 theme metadata."
+    },
+    {
+      "date": "2026-06-16",
+      "day": "Tuesday",
+      "dayOfMonth": 16,
+      "chapter": 16,
+      "candidateUnusedVerses": [
+        "Proverbs 16:1",
+        "Proverbs 16:2",
+        "Proverbs 16:5",
+        "Proverbs 16:9",
+        "Proverbs 16:20"
+      ],
+      "coverageNotes": "Chapter 16 has 9 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 16.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 16:9",
+      "recommendation": {
+        "score": 90,
+        "confidence": "High",
+        "reasoning": "Strong because it combines planning, technology/GPS imagery, and Fred's participation-over-control theological instinct."
+      },
+      "ties": [
+        "Proverbs 16:1"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 16 theme metadata."
+    },
+    {
+      "date": "2026-06-17",
+      "day": "Wednesday",
+      "dayOfMonth": 17,
+      "chapter": 17,
+      "candidateUnusedVerses": [
+        "Proverbs 17:1",
+        "Proverbs 17:6",
+        "Proverbs 17:9",
+        "Proverbs 17:10",
+        "Proverbs 17:14"
+      ],
+      "coverageNotes": "Chapter 17 has 9 covered verses and 19 remaining unused verses. No local verse-theme metadata exists yet for chapter 17.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 17:1",
+      "recommendation": {
+        "score": 86,
+        "confidence": "Medium",
+        "reasoning": "Strong because the verse gives a table image, household emotional wisdom, and a clean practical application around peace over performance."
+      },
+      "ties": [
+        "Proverbs 17:9"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 17 theme metadata."
+    },
+    {
+      "date": "2026-06-18",
+      "day": "Thursday",
+      "dayOfMonth": 18,
+      "chapter": 18,
+      "candidateUnusedVerses": [
+        "Proverbs 18:1",
+        "Proverbs 18:10",
+        "Proverbs 18:15",
+        "Proverbs 18:20",
+        "Proverbs 18:21"
+      ],
+      "coverageNotes": "Chapter 18 has 9 covered verses and 15 remaining unused verses. No local verse-theme metadata exists yet for chapter 18.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 18:21",
+      "recommendation": {
+        "score": 94,
+        "confidence": "High",
+        "reasoning": "Very strong because it is vivid, practical, and directly matches the Cheep Speech Ain't Free seed without repeating the Week One appetite title."
+      },
+      "ties": [],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 18 theme metadata."
+    },
+    {
+      "date": "2026-06-19",
+      "day": "Friday",
+      "dayOfMonth": 19,
+      "chapter": 19,
+      "candidateUnusedVerses": [
+        "Proverbs 19:1",
+        "Proverbs 19:3",
+        "Proverbs 19:20",
+        "Proverbs 19:21",
+        "Proverbs 19:23"
+      ],
+      "coverageNotes": "Chapter 19 has 10 covered verses and 19 remaining unused verses. No local verse-theme metadata exists yet for chapter 19.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 19:21",
+      "recommendation": {
+        "score": 87,
+        "confidence": "Medium",
+        "reasoning": "Strong because it pairs well with creative process, failed attempts, and plans submitted to God's steadier counsel."
+      },
+      "ties": [
+        "Proverbs 19:20"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text and missing chapter 19 theme metadata."
+    },
+    {
+      "date": "2026-06-20",
+      "day": "Saturday",
+      "dayOfMonth": 20,
+      "chapter": 20,
+      "candidateUnusedVerses": [
+        "Proverbs 20:4",
+        "Proverbs 20:9",
+        "Proverbs 20:18",
+        "Proverbs 20:24",
+        "Proverbs 20:27"
+      ],
+      "coverageNotes": "Chapter 20 has 6 covered verses and 24 remaining unused verses. No local verse-theme metadata exists yet for chapter 20.",
+      "priorUsageNotes": "Selected verse is listed as unused in the local coverage query.",
+      "duplicateWarnings": [],
+      "status": "Planning Draft",
+      "recommendedVerse": "Proverbs 20:24",
+      "recommendation": {
+        "score": 84,
+        "confidence": "Medium",
+        "reasoning": "Strong but a little more abstract. It creates a good hidden-guidance episode and matches the See It And Forget It seed, but it needs Fred texture to avoid sounding too similar to Proverbs 16:9."
+      },
+      "ties": [
+        "Proverbs 20:18"
+      ],
+      "reviewStatus": "NEEDS_FRED_REVIEW - KJV text, missing chapter 20 theme metadata, and thematic overlap with June 16."
+    }
+  ],
+  "lastUpdated": "2026-06-14T12:00:00.000-05:00"
+}

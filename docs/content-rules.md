@@ -25,11 +25,20 @@
 
 ## Translation Rules
 
-- Use `data/scripture/all_proverbs_translations.csv` as the translation library when available.
-- Current repo state includes `data/scripture/all_proverbs_translations.xlsx`; generator work should read it directly or export a controlled CSV before relying on the CSV path.
+- Use `data/scripture/all_proverbs_translations.xlsx` as the current canonical local translation library.
+- CSV export may be supported later, but current generators should not require it.
 - Draft study default is NIV.
 - Publication default is NET when Fred does not choose another translation.
 - Open/public-domain fallback is WEB.
+- Committed generated markdown outputs should use publication-safe mode by default: NET first, WEB if NET is unavailable.
+- NIV may remain available for local study and draft discovery, but it should not be written into committed generated markdown outputs by default.
 - Never silently replace Fred's chosen translation.
-- Always record `translationUsed` and `publicationTranslationStatus` in the Technical Script.
-- Do not default to KJV unless Fred chooses KJV or the system intentionally uses it as a fallback.
+- Always record `translationUsed` and `publicationPermissionStatus` in the Technical Script.
+- Do not default to KJV unless Fred chooses KJV or no better available source exists.
+- If verse text is suspiciously incomplete, skip it; if no safe text is available, output `[Scripture text pending translation check.]`.
+
+## Approval Gating
+
+- Valid draft statuses are `NEEDS_FRED_DISCOVERY`, `NEEDS_FRED_REVIEW`, and `APPROVED`.
+- Only `APPROVED` episodes can be converted into Substack, ProverbsDaily.org, ElevenLabs/audio, video, or final technical outputs.
+- Unapproved episodes remain in draft/review mode.

@@ -6,6 +6,8 @@ Weekly Draft Packet v0.2 is the weekly human editing surface for Proverbs Daily.
 
 Do not generate new episode drafts as part of adopting this spec. This document defines the target packet behavior for future generator work.
 
+`v0.2` is the current preferred workflow version name. The filename slug may use `v2` where that keeps existing paths short or stable.
+
 ## Naming
 
 The weekly Google Doc should be named:
@@ -115,7 +117,7 @@ Only `APPROVED` episodes can be converted into production outputs.
 
 ## Translation Rules
 
-Use `data/scripture/all_proverbs_translations.csv` as the translation library when available.
+Use `data/scripture/all_proverbs_translations.xlsx` as the current canonical local translation library.
 
 Draft study default: NIV.
 
@@ -125,13 +127,23 @@ Open/public-domain fallback: WEB.
 
 Fred override: any selected translation from the translation library.
 
+Committed repo-safe v0.2 markdown packet outputs should use publication-safe scripture text by default: NET first, WEB if NET is unavailable, and KJV only when no better available source exists.
+
+NIV may remain available for local study and discovery mode, but should not be written into committed generated markdown outputs by default.
+
 Never silently replace Fred's chosen translation.
 
-Always record `translationUsed` and `publicationTranslationStatus` in the Technical Script.
+Always record `translationUsed` and `publicationPermissionStatus` in the Technical Script.
 
 Do not default to KJV unless Fred chooses KJV or the system is intentionally using it as a fallback.
 
-Current repo note: `data/scripture/all_proverbs_translations.xlsx` exists. Generator work should either read this workbook directly or export it to the requested `.csv` path before treating the translation library as available.
+CSV export may be supported later, but the Weekly Draft Packet v0.2 generator should not require or expect a CSV file.
+
+If a selected translation cell appears suspiciously incomplete, the generator should skip it. If no safe translation can be retrieved, output:
+
+```text
+[Scripture text pending translation check.]
+```
 
 ## Outro Component Rules
 
@@ -162,3 +174,42 @@ Future packet generators should:
 - avoid full outro duplication in the Performance Script
 - attach or omit the reusable outro according to platform rules
 - record translation decisions in technical metadata
+- use `src/lib/loadScriptureLibrary.js` for workbook-backed verse lookup
+- keep unapproved episodes in draft/review mode
+
+## Current Generator
+
+The current markdown-first Week Two v0.2 generator is:
+
+```text
+src/production/createWeekTwoDraftPackV02.js
+```
+
+It writes new v0.2 files only:
+
+```text
+outputs/reader/google-docs/week-two/weekly-draft-packet-week-25-v02.md
+outputs/technical/week-two/weekly-technical-script-week-25-v02.md
+```
+
+It must not overwrite:
+
+```text
+outputs/reader/google-docs/week-two/weekly-draft-packet.md
+```
+
+## Approval Gating
+
+Allowed draft statuses:
+
+- `NEEDS_FRED_DISCOVERY`
+- `NEEDS_FRED_REVIEW`
+- `APPROVED`
+
+Only `APPROVED` episodes are eligible for production outputs:
+
+- Substack output
+- ProverbsDaily.org reader output
+- ElevenLabs/audio script
+- video script
+- final technical export

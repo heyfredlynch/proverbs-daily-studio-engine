@@ -1,0 +1,14 @@
+{
+  "name": "proverbs-daily-studio-engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Production and planning utilities for the Proverbs Daily Studio Engine.",
+  "type": "commonjs",
+  "scripts": {
+    "generate:week-two:v02": "node src/production/createWeekTwoDraftPackV02.js",
+    "validate:scripture": "node -e \"const { loadScriptureLibrary, getVerse } = require('./src/lib/loadScriptureLibrary'); const library = loadScriptureLibrary(); const verse = getVerse(library, { chapter: 16, verse: 9, mode: 'publication-safe' }); console.log(library.rows.length); console.log(verse.reference + ' ' + verse.translationUsed); console.log(verse.text);\""
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

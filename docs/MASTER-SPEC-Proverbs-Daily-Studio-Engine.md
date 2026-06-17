@@ -1171,7 +1171,7 @@ Current gaps:
 - Need rights/attribution handling for external references, songs, pop culture examples, and links.
 - Weekly Draft Packet v0.2 is specified in `docs/weekly-draft-packet-v2-spec.md`, but current generators still emit older draft packet structures.
 - Native Google Docs tab creation is not implemented; markdown sections are the current fallback.
-- Current translation library file exists as `data/scripture/all_proverbs_translations.xlsx`; the requested CSV path does not exist yet.
+- Current translation library file exists as `data/scripture/all_proverbs_translations.xlsx`; this workbook is the canonical local scripture source. CSV export may be supported later but is not required now.
 - Standard outro component exists at `components/outros/proverbs-daily-standard-outro.md`, but current production scripts still contain hard-coded outro text.
 
 Additional risks:
@@ -1256,9 +1256,9 @@ Full Studio Engine work:
 8. Generalize production pack generator from Week One to any week.
 9. Begin n8n delivery system design.
 10. Update draft and production generators to emit Weekly Draft Packet v0.2.
-11. Add translation-library loading for `data/scripture/all_proverbs_translations.csv` or the current workbook source.
-12. Replace hard-coded outro text with `components/outros/proverbs-daily-standard-outro.md`.
-13. Add Performance Script to Technical Script synchronization from `APPROVED` episodes.
+11. Extend translation-library loading beyond the current Week Two v0.2 generator as needed.
+12. Replace remaining hard-coded outro text with `components/outros/proverbs-daily-standard-outro.md`.
+13. Add full Performance Script to Technical Script synchronization from `APPROVED` episodes.
 
 ## 24. Weekly Draft Packet v0.2 Addendum
 
@@ -1289,6 +1289,7 @@ Translation defaults:
 - Publication default when Fred does not choose another translation: NET.
 - Open/public-domain fallback: WEB.
 - Fred override: any selected translation from the translation library.
+- Canonical local scripture source: `data/scripture/all_proverbs_translations.xlsx`.
 
 Outro policy:
 

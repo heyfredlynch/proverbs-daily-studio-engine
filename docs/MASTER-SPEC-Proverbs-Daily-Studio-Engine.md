@@ -1159,7 +1159,7 @@ Current gaps:
 
 - Dashboard Generator v0.1 still needs to be built.
 - Production pack needs broader repeatability beyond Week One.
-- Scripture translation source management needs to be formalized.
+- Scripture translation source management now has `docs/translation-policy.md`, but generator support still needs to be implemented.
 - Audio asset storage strategy needs to be implemented.
 - Video creation pipeline needs testing.
 - Google Omni needs testing.
@@ -1169,6 +1169,10 @@ Current gaps:
 - Need better separation of dialogue transcripts, clean approved docs, and production outputs.
 - Need versioning for approved scripts after edits.
 - Need rights/attribution handling for external references, songs, pop culture examples, and links.
+- Weekly Draft Packet v0.2 is specified in `docs/weekly-draft-packet-v2-spec.md`, but current generators still emit older draft packet structures.
+- Native Google Docs tab creation is not implemented; markdown sections are the current fallback.
+- Current translation library file exists as `data/scripture/all_proverbs_translations.xlsx`; the requested CSV path does not exist yet.
+- Standard outro component exists at `components/outros/proverbs-daily-standard-outro.md`, but current production scripts still contain hard-coded outro text.
 
 Additional risks:
 
@@ -1251,6 +1255,47 @@ Full Studio Engine work:
 7. Create episode catalog schema.
 8. Generalize production pack generator from Week One to any week.
 9. Begin n8n delivery system design.
+10. Update draft and production generators to emit Weekly Draft Packet v0.2.
+11. Add translation-library loading for `data/scripture/all_proverbs_translations.csv` or the current workbook source.
+12. Replace hard-coded outro text with `components/outros/proverbs-daily-standard-outro.md`.
+13. Add Performance Script to Technical Script synchronization from `APPROVED` episodes.
+
+## 24. Weekly Draft Packet v0.2 Addendum
+
+Weekly Draft Packet v0.2 is the next target review format for new weekly draft packets.
+
+Authoritative supporting docs:
+
+- `docs/creative-engine/proverbs-daily-script-generator-master-prompt.md`
+- `docs/weekly-draft-packet-v2-spec.md`
+- `docs/translation-policy.md`
+- `components/outros/proverbs-daily-standard-outro.md`
+
+The packet should be one Google Doc per week with three conceptual tabs:
+
+1. PERFORMANCE SCRIPT
+2. MASTER TEMPLATE
+3. TECHNICAL SCRIPT
+
+If native Google Docs tabs cannot be created yet, the generator should emit Google Docs-ready markdown with those three sections clearly separated.
+
+Fred edits the Performance Script. Once Fred marks an episode `APPROVED`, the Performance Script becomes the source of truth. The Technical Script mirrors that approved text and adds metadata, markdown markers, platform rules, translation status, output paths, audio notes, video notes, and pipeline instructions.
+
+Only `APPROVED` episodes can be converted into production outputs.
+
+Translation defaults:
+
+- Draft study default: NIV.
+- Publication default when Fred does not choose another translation: NET.
+- Open/public-domain fallback: WEB.
+- Fred override: any selected translation from the translation library.
+
+Outro policy:
+
+- Performance Script closes with the short spoken Proverbs Daily signoff.
+- The full support/about-author outro is stored once as a reusable component.
+- Substack, audio, and video attach the standard outro.
+- ProverbsDaily.org web app omits the standard outro.
 
 ## 21. Appendix: Week One Episode List
 

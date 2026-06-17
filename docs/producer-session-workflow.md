@@ -109,3 +109,25 @@ Future work may extract patterns from the session, but the current purpose is ar
 - collect finished exemplars
 - prepare for later prompt and engine refinement
 
+## Weekly Draft Packet v0.2 Session Output
+
+The target weekly review artifact is now Weekly Draft Packet v0.2.
+
+Each Sunday producer session should ultimately prepare one weekly Google Doc named:
+
+```text
+Weekly Draft Packet - Week ## - Month Day-Day, Year
+```
+
+The packet should contain three conceptual tabs in this order:
+
+1. PERFORMANCE SCRIPT
+2. MASTER TEMPLATE
+3. TECHNICAL SCRIPT
+
+If native Google Docs tabs are not available in the generator, create a Google Docs-ready markdown packet with those three sections clearly separated.
+
+Fred edits the Performance Script. Once Fred marks an episode `APPROVED`, that approved Performance Script becomes the source of truth for the Technical Script and downstream production outputs.
+
+Do not convert an episode into production outputs until it is marked `APPROVED`.
+

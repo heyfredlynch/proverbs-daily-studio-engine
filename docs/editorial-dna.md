@@ -70,3 +70,25 @@ The system should eventually suggest:
 The goal is not to automate creativity.
 
 The goal is to support wisdom discovery.
+
+## 8. Master Prompt Alignment
+
+The creative master prompt lives at `docs/creative-engine/proverbs-daily-script-generator-master-prompt.md`.
+
+Future generation should follow its sequence:
+
+- help Fred discover the best hook
+- refine the big idea
+- then generate the finished script
+
+Never skip the discovery step. Proverbs Daily should begin with curiosity, story, ordinary life, and wonder before moving into explanation.
+
+Preferred theological and editorial instincts:
+
+- formation over condemnation
+- alignment over punishment
+- wisdom over rule-keeping
+- participation over exclusion
+- discovery over instruction
+
+The listener should feel invited, not scolded.

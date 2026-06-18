@@ -1268,7 +1268,9 @@ Authoritative supporting docs:
 
 - `docs/creative-engine/proverbs-daily-script-generator-master-prompt.md`
 - `docs/weekly-draft-packet-v2-spec.md`
+- `docs/production-workflow/weekly-draft-packet-v2-spec.md`
 - `docs/translation-policy.md`
+- `docs/production-workflow/translation-policy.md`
 - `components/outros/proverbs-daily-standard-outro.md`
 
 The packet should be one Google Doc per week with three conceptual tabs:

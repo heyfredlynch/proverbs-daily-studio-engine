@@ -1,3 +1,6 @@
 node_modules/
 
 data/scripture/all_proverbs_translations.xlsx
+
+scripture-library/*
+!scripture-library/README.md

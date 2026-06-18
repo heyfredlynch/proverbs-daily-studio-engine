@@ -2,10 +2,13 @@ const path = require("path");
 const XLSX = require("xlsx");
 
 const ROOT = path.resolve(__dirname, "../..");
+const SCRIPTURE_LIBRARY_DIR = path.join(ROOT, "scripture-library");
 const DEFAULT_WORKBOOK_PATH = path.join(
   ROOT,
   "data/scripture/all_proverbs_translations.xlsx"
 );
+const LOCAL_JSON_PATH = path.join(SCRIPTURE_LIBRARY_DIR, "all_proverbs_translations.json");
+const LOCAL_CSV_PATH = path.join(SCRIPTURE_LIBRARY_DIR, "all_proverbs_translations.csv");
 
 const TRANSLATION_KEYS = [
   "NIV",
@@ -189,7 +192,107 @@ function normalizeLongRows(rows, headerMap) {
   return [...grouped.values()];
 }
 
-function loadScriptureLibrary(workbookPath = DEFAULT_WORKBOOK_PATH) {
+function normalizeFlatRows(objects) {
+  const grouped = new Map();
+
+  for (const object of objects) {
+    const chapter = Number(object.chapter || object.Chapter || object.ch);
+    const verseNumber = Number(
+      object.verseNumber ||
+        object.VerseNumber ||
+        object.verse ||
+        object["Vs#"] ||
+        object.vs
+    );
+    const translation = normalizeTranslationKey(
+      object.translation || object.Version || object.version
+    );
+    const text = String(
+      object.text ||
+        object.verseText ||
+        object.ScriptureText ||
+        object["A B C D E F G H I J K L M N O P Q R S T U V W X Y Z"] ||
+        ""
+    ).trim();
+
+    if (!chapter || !verseNumber || !translation || !text) continue;
+    if (!TRANSLATION_KEYS.includes(translation)) continue;
+
+    const key = `${chapter}:${verseNumber}`;
+    const current =
+      grouped.get(key) ||
+      {
+        reference: `Proverbs ${chapter}:${verseNumber}`,
+        chapter,
+        verseNumber,
+        translations: {},
+      };
+
+    current.translations[translation] = text;
+    grouped.set(key, current);
+  }
+
+  return [...grouped.values()];
+}
+
+function parseCsvLine(line) {
+  const values = [];
+  let current = "";
+  let quoted = false;
+
+  for (let index = 0; index < line.length; index += 1) {
+    const char = line[index];
+    const next = line[index + 1];
+
+    if (char === '"' && quoted && next === '"') {
+      current += '"';
+      index += 1;
+    } else if (char === '"') {
+      quoted = !quoted;
+    } else if (char === "," && !quoted) {
+      values.push(current);
+      current = "";
+    } else {
+      current += char;
+    }
+  }
+
+  values.push(current);
+  return values;
+}
+
+function loadJsonLibrary(filePath) {
+  const parsed = JSON.parse(require("fs").readFileSync(filePath, "utf8"));
+  const rows = Array.isArray(parsed) ? parsed : parsed.rows || parsed.verses || [];
+
+  return {
+    workbookPath: filePath,
+    sheetName: "json",
+    translations: TRANSLATION_KEYS,
+    rows: normalizeFlatRows(rows),
+  };
+}
+
+function loadCsvLibrary(filePath) {
+  const lines = require("fs")
+    .readFileSync(filePath, "utf8")
+    .split(/\r?\n/)
+    .filter((line) => line.trim());
+  const headers = parseCsvLine(lines[0]);
+  const rows = lines.slice(1).map((line) => {
+    const values = parseCsvLine(line);
+    return Object.fromEntries(headers.map((header, index) => [header, values[index] || ""]));
+  });
+
+  return {
+    workbookPath: filePath,
+    sheetName: "csv",
+    translations: TRANSLATION_KEYS,
+    rows: normalizeFlatRows(rows),
+  };
+}
+
+function loadWorkbookLibrary(workbookPath) {
   const workbook = XLSX.readFile(workbookPath);
   const sheetName = findSheetName(workbook);
   const sheet = workbook.Sheets[sheetName];
@@ -217,6 +320,22 @@ function loadScriptureLibrary(workbookPath = DEFAULT_WORKBOOK_PATH) {
     translations: TRANSLATION_KEYS,
     rows: normalizedRows,
   };
+}
+
+function loadScriptureLibrary(sourcePath) {
+  const fs = require("fs");
+  const resolvedSource = sourcePath
+    ? path.resolve(sourcePath)
+    : fs.existsSync(LOCAL_JSON_PATH)
+      ? LOCAL_JSON_PATH
+      : fs.existsSync(LOCAL_CSV_PATH)
+        ? LOCAL_CSV_PATH
+        : DEFAULT_WORKBOOK_PATH;
+
+  if (/\.json$/i.test(resolvedSource)) return loadJsonLibrary(resolvedSource);
+  if (/\.csv$/i.test(resolvedSource)) return loadCsvLibrary(resolvedSource);
+
+  return loadWorkbookLibrary(resolvedSource);
 }
 
 function availableTranslations(row) {
@@ -357,6 +476,8 @@ function getVerse(library, options) {
 
 module.exports = {
   DEFAULT_WORKBOOK_PATH,
+  LOCAL_CSV_PATH,
+  LOCAL_JSON_PATH,
   TRANSLATION_KEYS,
   availableTranslations,
   getVerse,

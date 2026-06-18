@@ -164,6 +164,16 @@ function extractEpisodeSection(scriptText, episode) {
   return cleaned;
 }
 
+function formatForAudio(sectionText) {
+  return collapseBlankLines(
+    sectionText
+      .replace(/^Scripture Reference:\s*/m, "")
+      .replace(/^Verse Text:\s*/m, "")
+      .replace(/^Episode Title:\s*/m, "Today's Episode: ")
+      .replace(/^Body:\s*\n?/m, "")
+  );
+}
+
 function shouldAppendOutro(manifest, episode) {
   return Boolean(
     episode.appendOutroForAudio ||
@@ -213,7 +223,7 @@ function buildAudioJobs(manifest) {
       scriptCache.set(approvedPath, readText(approvedPath));
     }
 
-    const baseText = extractEpisodeSection(scriptCache.get(approvedPath), episode);
+    const baseText = formatForAudio(extractEpisodeSection(scriptCache.get(approvedPath), episode));
     const outroText = shouldAppendOutro(manifest, episode) ? loadOutroText(episode.outroComponent) : "";
     const text = collapseBlankLines(outroText ? `${baseText}\n\n${outroText}` : baseText);
     const outputPath = expectedAudioPath(episode);

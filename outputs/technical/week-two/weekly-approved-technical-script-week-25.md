@@ -1,6 +1,9 @@
 # Week Two Approved Technical Script - Week 25
 
-This file mirrors the approved performance script metadata and prepares the week for audio, review, and video planning.
+Approved metadata and production routing for Week Two audio, review, and video planning.
+
+Final source document: Proverbs Daily Season Two - Week Two Drafts - June 14-20
+Final source URL: https://docs.google.com/document/d/1IljVM1ObgbgtceI7cfMNBoLzEcvQ_U10tBEoqzYKg_o
 
 ## 2026-06-14 - Proverbs 14:30 - The Rhythm of a Sound Heart
 
@@ -14,30 +17,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-14
 scriptureReference: Proverbs 14:30
-translation: NET
+translation: ESV
 title: The Rhythm of a Sound Heart
 ```
-
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
 
 audio:
 - rawPath: outputs/audio/week-two/raw/2026-06-14_proverbs-daily_proverbs-14-30_the-rhythm-of-a-sound-heart.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-14_proverbs-14-30_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-14_proverbs-14-30_scene-plan.md
@@ -46,7 +39,7 @@ video:
 publish:
 - status: NOT_STARTED
 
-## 2026-06-15 - Proverbs 15:1 - Turn Down The Heat
+## 2026-06-15 - Proverbs 15:1 - You Know That Thing Magnets Do...
 
 ```yaml
 status: APPROVED
@@ -58,30 +51,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-15
 scriptureReference: Proverbs 15:1
-translation: NET
-title: Turn Down The Heat
+translation: NLT
+title: You Know That Thing Magnets Do...
 ```
 
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
-
 audio:
-- rawPath: outputs/audio/week-two/raw/2026-06-15_proverbs-daily_proverbs-15-1_turn-down-the-heat.mp3
+- rawPath: outputs/audio/week-two/raw/2026-06-15_proverbs-daily_proverbs-15-1_you-know-that-thing-magnets-do.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-15_proverbs-15-1_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-15_proverbs-15-1_scene-plan.md
@@ -90,7 +73,7 @@ video:
 publish:
 - status: NOT_STARTED
 
-## 2026-06-16 - Proverbs 16:9 - The Route Recalculates
+## 2026-06-16 - Proverbs 16:23 - The Greatest Teacher
 
 ```yaml
 status: APPROVED
@@ -102,33 +85,23 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-16
-scriptureReference: Proverbs 16:9
-translation: NET
-title: The Route Recalculates
+scriptureReference: Proverbs 16:23
+translation: NKJV
+title: The Greatest Teacher
 ```
 
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
-
 audio:
-- rawPath: outputs/audio/week-two/raw/2026-06-16_proverbs-daily_proverbs-16-9_the-route-recalculates.mp3
-- reviewPath: outputs/audio/week-two/review/2026-06-16_proverbs-16-9_audio-review.md
+- rawPath: outputs/audio/week-two/raw/2026-06-16_proverbs-daily_proverbs-16-23_the-greatest-teacher.mp3
+- reviewPath: outputs/audio/week-two/review/2026-06-16_proverbs-16-23_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
-- scenePlanPath: outputs/video/week-two/scene-plans/2026-06-16_proverbs-16-9_scene-plan.md
+- scenePlanPath: outputs/video/week-two/scene-plans/2026-06-16_proverbs-16-23_scene-plan.md
 - status: READY_FOR_PLANNING
 
 publish:
@@ -146,30 +119,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-17
 scriptureReference: Proverbs 17:1
-translation: NET
+translation: NLT
 title: Quiet Tastes Better
 ```
-
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
 
 audio:
 - rawPath: outputs/audio/week-two/raw/2026-06-17_proverbs-daily_proverbs-17-1_quiet-tastes-better.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-17_proverbs-17-1_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-17_proverbs-17-1_scene-plan.md
@@ -178,7 +141,7 @@ video:
 publish:
 - status: NOT_STARTED
 
-## 2026-06-18 - Proverbs 18:21 - Words With Teeth
+## 2026-06-18 - Proverbs 18:21 - Eat Your Words
 
 ```yaml
 status: APPROVED
@@ -190,30 +153,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-18
 scriptureReference: Proverbs 18:21
-translation: NET
-title: Words With Teeth
+translation: AMP
+title: Eat Your Words
 ```
 
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
-
 audio:
-- rawPath: outputs/audio/week-two/raw/2026-06-18_proverbs-daily_proverbs-18-21_words-with-teeth.mp3
+- rawPath: outputs/audio/week-two/raw/2026-06-18_proverbs-daily_proverbs-18-21_eat-your-words.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-18_proverbs-18-21_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-18_proverbs-18-21_scene-plan.md
@@ -222,7 +175,7 @@ video:
 publish:
 - status: NOT_STARTED
 
-## 2026-06-19 - Proverbs 19:21 - Plans With Open Hands
+## 2026-06-19 - Proverbs 19:21 - What's Your Algorithm?
 
 ```yaml
 status: APPROVED
@@ -234,30 +187,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-19
 scriptureReference: Proverbs 19:21
-translation: NET
-title: Plans With Open Hands
+translation: KJV
+title: What's Your Algorithm?
 ```
 
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
-
 audio:
-- rawPath: outputs/audio/week-two/raw/2026-06-19_proverbs-daily_proverbs-19-21_plans-with-open-hands.mp3
+- rawPath: outputs/audio/week-two/raw/2026-06-19_proverbs-daily_proverbs-19-21_whats-your-algorithm.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-19_proverbs-19-21_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-19_proverbs-19-21_scene-plan.md
@@ -278,30 +221,20 @@ productionStatus: READY_FOR_AUDIO
 elevenLabsStatus: READY
 audioReviewStatus: NOT_STARTED
 videoStatus: READY_FOR_PLANNING
+publishStatus: NOT_STARTED
 outroComponent: proverbs-daily-standard-outro
-sourceContentStatus: SOURCE_NEEDED_FROM_GOOGLE_DOC_FINAL_TAB
 date: 2026-06-20
 scriptureReference: Proverbs 20:24
-translation: NET
+translation: ESV
 title: Walking Without The Whole Map
 ```
-
-pipeline:
-- Planner
-- Draft Generator
-- Creative Exploration
-- Fred Riff Layer
-- FINAL
-- APPROVED
-- ElevenLabs
-- Audio Review
-- Video Pipeline
-- Publish
 
 audio:
 - rawPath: outputs/audio/week-two/raw/2026-06-20_proverbs-daily_proverbs-20-24_walking-without-the-whole-map.mp3
 - reviewPath: outputs/audio/week-two/review/2026-06-20_proverbs-20-24_audio-review.md
 - sourcePolicy: Use listener-facing approved performance script only.
+- sourceSection: approved-performance-script/week-two
+- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.
 
 video:
 - scenePlanPath: outputs/video/week-two/scene-plans/2026-06-20_proverbs-20-24_scene-plan.md

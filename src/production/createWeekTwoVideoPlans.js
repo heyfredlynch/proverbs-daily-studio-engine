@@ -6,8 +6,9 @@ const manifestPath = path.join(ROOT, "data/production/week-two/productionManifes
 
 function scenePlan(episode) {
   return [
-    `# Scene Plan - ${episode.date} - ${episode.title}`,
+    `# Scene Plan - ${episode.episodeAssetId || `${episode.date} - ${episode.title}`}`,
     "",
+    episode.episodeAssetId ? `Episode Asset ID: ${episode.episodeAssetId}` : "",
     `Scripture: ${episode.scriptureReference} (${episode.translation})`,
     `Audio status required: AUDIO_APPROVED before production begins`,
     "",

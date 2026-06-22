@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-14 - The Rhythm of a Sound Heart
+# Scene Plan - S2-2026-06-20_prov-20-24_walking-without-the-whole-map
 
-Scripture: Proverbs 14:30 (NET)
+Episode Asset ID: S2-2026-06-20_prov-20-24_walking-without-the-whole-map
+Scripture: Proverbs 20:24 (ESV)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

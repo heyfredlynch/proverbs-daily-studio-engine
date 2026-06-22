@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-18 - Words With Teeth
+# Scene Plan - S2-2026-06-18_prov-18-21_eat-your-words
 
-Scripture: Proverbs 18:21 (NET)
+Episode Asset ID: S2-2026-06-18_prov-18-21_eat-your-words
+Scripture: Proverbs 18:21 (AMP)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

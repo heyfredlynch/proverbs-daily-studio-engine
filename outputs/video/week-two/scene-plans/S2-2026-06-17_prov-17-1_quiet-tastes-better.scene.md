@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-17 - Quiet Tastes Better
+# Scene Plan - S2-2026-06-17_prov-17-1_quiet-tastes-better
 
-Scripture: Proverbs 17:1 (NET)
+Episode Asset ID: S2-2026-06-17_prov-17-1_quiet-tastes-better
+Scripture: Proverbs 17:1 (NLT)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

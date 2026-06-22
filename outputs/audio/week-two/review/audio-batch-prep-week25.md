@@ -6,37 +6,37 @@ Source: `outputs/approved/week-two/weekly-approved-performance-script-week-25.md
 
 ## Episodes
 
-- 2026-06-14 | Proverbs 14:30 | The Rhythm of a Sound Heart
-  - rawAudio: outputs/audio/week-two/raw/2026-06-14_proverbs-daily_proverbs-14-30_the-rhythm-of-a-sound-heart.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-14_proverbs-14-30_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart | Proverbs 14:30 | The Rhythm of a Sound Heart
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-15 | Proverbs 15:1 | Turn Down The Heat
-  - rawAudio: outputs/audio/week-two/raw/2026-06-15_proverbs-daily_proverbs-15-1_turn-down-the-heat.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-15_proverbs-15-1_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do | Proverbs 15:1 | You Know That Thing Magnets Do...
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-16 | Proverbs 16:9 | The Route Recalculates
-  - rawAudio: outputs/audio/week-two/raw/2026-06-16_proverbs-daily_proverbs-16-9_the-route-recalculates.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-16_proverbs-16-9_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-16_prov-16-23_the-greatest-teacher | Proverbs 16:23 | The Greatest Teacher
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-16_prov-16-23_the-greatest-teacher.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-16_prov-16-23_the-greatest-teacher.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-17 | Proverbs 17:1 | Quiet Tastes Better
-  - rawAudio: outputs/audio/week-two/raw/2026-06-17_proverbs-daily_proverbs-17-1_quiet-tastes-better.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-17_proverbs-17-1_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-17_prov-17-1_quiet-tastes-better | Proverbs 17:1 | Quiet Tastes Better
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-17_prov-17-1_quiet-tastes-better.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-17_prov-17-1_quiet-tastes-better.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-18 | Proverbs 18:21 | Words With Teeth
-  - rawAudio: outputs/audio/week-two/raw/2026-06-18_proverbs-daily_proverbs-18-21_words-with-teeth.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-18_proverbs-18-21_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-18_prov-18-21_eat-your-words | Proverbs 18:21 | Eat Your Words
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-18_prov-18-21_eat-your-words.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-18_prov-18-21_eat-your-words.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-19 | Proverbs 19:21 | Plans With Open Hands
-  - rawAudio: outputs/audio/week-two/raw/2026-06-19_proverbs-daily_proverbs-19-21_plans-with-open-hands.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-19_proverbs-19-21_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-19_prov-19-21_whats-your-algorithm | Proverbs 19:21 | What's Your Algorithm?
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-19_prov-19-21_whats-your-algorithm.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-19_prov-19-21_whats-your-algorithm.audio-review.md
+  - elevenLabsStatus: GENERATED
 
-- 2026-06-20 | Proverbs 20:24 | Walking Without The Whole Map
-  - rawAudio: outputs/audio/week-two/raw/2026-06-20_proverbs-daily_proverbs-20-24_walking-without-the-whole-map.mp3
-  - reviewNotes: outputs/audio/week-two/review/2026-06-20_proverbs-20-24_audio-review.md
-  - elevenLabsStatus: READY
+- S2-2026-06-20_prov-20-24_walking-without-the-whole-map | Proverbs 20:24 | Walking Without The Whole Map
+  - rawAudio: outputs/audio/week-two/raw/S2-2026-06-20_prov-20-24_walking-without-the-whole-map.mp3
+  - reviewNotes: outputs/audio/week-two/review/S2-2026-06-20_prov-20-24_walking-without-the-whole-map.audio-review.md
+  - elevenLabsStatus: GENERATED

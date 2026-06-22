@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-20 - Walking Without The Whole Map
+# Scene Plan - S2-2026-06-19_prov-19-21_whats-your-algorithm
 
-Scripture: Proverbs 20:24 (NET)
+Episode Asset ID: S2-2026-06-19_prov-19-21_whats-your-algorithm
+Scripture: Proverbs 19:21 (KJV)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

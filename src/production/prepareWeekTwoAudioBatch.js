@@ -20,7 +20,7 @@ function run() {
 
   for (const episode of manifest.episodes) {
     lines.push(
-      `- ${episode.date} | ${episode.scriptureReference} | ${episode.title}`,
+      `- ${episode.episodeAssetId || episode.date} | ${episode.scriptureReference} | ${episode.title}`,
       `  - rawAudio: ${episode.audioRawPath}`,
       `  - reviewNotes: ${episode.audioReviewPath}`,
       `  - elevenLabsStatus: ${episode.elevenLabsStatus}`,

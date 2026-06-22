@@ -1,6 +1,7 @@
 const fs = require("fs");
 const https = require("https");
 const path = require("path");
+const { createEpisodeAssetFilenames } = require("../lib/episodeAssetNaming");
 
 const ROOT = path.resolve(__dirname, "../..");
 const MANIFEST_PATH = "data/production/week-two/productionManifest.week25.json";
@@ -120,26 +121,14 @@ function ensureListenerSafe(value, episode) {
   }
 }
 
-function slugify(value) {
-  return value
-    .toLowerCase()
-    .replace(/['']/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "");
-}
-
-function referenceSlug(scriptureReference) {
-  const match = scriptureReference.match(/^Proverbs\s+(\d+):(\d+)$/i);
-  if (!match) {
-    throw new Error(`Unsupported scripture reference for audio filename: ${scriptureReference}`);
-  }
-  return `proverbs-${match[1]}-${match[2]}`;
-}
-
 function expectedAudioPath(episode) {
-  const refSlug = referenceSlug(episode.scriptureReference);
-  const episodeSlug = slugify(episode.title);
-  return `${RAW_AUDIO_DIR}/${episode.date}_proverbs-daily_${refSlug}_${episodeSlug}.mp3`;
+  const filenames = createEpisodeAssetFilenames({
+    season: 2,
+    date: episode.date,
+    scriptureReference: episode.scriptureReference,
+    title: episode.title,
+  });
+  return `${RAW_AUDIO_DIR}/${filenames.audio}`;
 }
 
 function extractEpisodeSection(scriptText, episode) {

@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-16 - The Route Recalculates
+# Scene Plan - S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do
 
-Scripture: Proverbs 16:9 (NET)
+Episode Asset ID: S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do
+Scripture: Proverbs 15:1 (NLT)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

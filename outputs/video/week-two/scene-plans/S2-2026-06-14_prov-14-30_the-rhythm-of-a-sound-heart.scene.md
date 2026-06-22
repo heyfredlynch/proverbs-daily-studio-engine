@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-19 - Plans With Open Hands
+# Scene Plan - S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart
 
-Scripture: Proverbs 19:21 (NET)
+Episode Asset ID: S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart
+Scripture: Proverbs 14:30 (ESV)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

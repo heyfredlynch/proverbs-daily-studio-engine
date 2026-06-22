@@ -1,5 +1,10 @@
 const fs = require("fs");
 const path = require("path");
+const {
+  createEpisodeAssetFilenames,
+  parseScriptureReference,
+  slugifyTitle,
+} = require("../lib/episodeAssetNaming");
 
 const ROOT = path.resolve(__dirname, "../..");
 const WEEK = 25;
@@ -444,7 +449,20 @@ But guidance can be present now.`,
   },
 ].map((episode) => ({
   ...episode,
-  audioFilename: `${episode.date}_proverbs-daily_${episode.referenceSlug}_${episode.episodeSlug}.mp3`,
+  episodeAssetId: createEpisodeAssetFilenames({
+    season: 2,
+    date: episode.date,
+    scriptureReference: episode.scriptureReference,
+    title: episode.title,
+  }).episodeAssetId,
+  assetFilenames: createEpisodeAssetFilenames({
+    season: 2,
+    date: episode.date,
+    scriptureReference: episode.scriptureReference,
+    title: episode.title,
+  }),
+  referenceSlug: parseScriptureReference(episode.scriptureReference).referenceSlug,
+  episodeSlug: slugifyTitle(episode.title),
 }));
 
 function absolute(relativePath) {
@@ -482,6 +500,7 @@ function metadata(episode) {
     videoStatus: "READY_FOR_PLANNING",
     publishStatus: "NOT_STARTED",
     outroComponent: OUTRO_COMPONENT,
+    episodeAssetId: episode.episodeAssetId,
     date: episode.date,
     scriptureReference: episode.scriptureReference,
     translation: episode.translation,
@@ -503,6 +522,7 @@ function yamlBlock(values) {
     `videoStatus: ${values.videoStatus}`,
     `publishStatus: ${values.publishStatus}`,
     `outroComponent: ${values.outroComponent}`,
+    `episodeAssetId: ${values.episodeAssetId}`,
     `date: ${values.date}`,
     `scriptureReference: ${values.scriptureReference}`,
     `translation: ${values.translation}`,
@@ -598,14 +618,14 @@ function approvedTechnical() {
       yamlBlock(values),
       "",
       "audio:",
-      `- rawPath: outputs/audio/week-two/raw/${episode.audioFilename}`,
-      `- reviewPath: outputs/audio/week-two/review/${episode.date}_${episode.referenceSlug}_audio-review.md`,
+      `- rawPath: outputs/audio/week-two/raw/${episode.assetFilenames.audio}`,
+      `- reviewPath: outputs/audio/week-two/review/${episode.assetFilenames.audioReview}`,
       "- sourcePolicy: Use listener-facing approved performance script only.",
       "- sourceSection: approved-performance-script/week-two",
       "- textPreparation: metadata and internal notes removed; scripture, title, body, Remember, Prayer, and Today's Challenge retained.",
       "",
       "video:",
-      `- scenePlanPath: outputs/video/week-two/scene-plans/${episode.date}_${episode.referenceSlug}_scene-plan.md`,
+      `- scenePlanPath: outputs/video/week-two/scene-plans/${episode.assetFilenames.scenePlan}`,
       "- status: READY_FOR_PLANNING",
       "",
       "publish:",
@@ -632,11 +652,12 @@ function productionManifest() {
       title: episode.title,
       status: "APPROVED",
       productionStatus: "READY_FOR_AUDIO",
+      episodeAssetId: episode.episodeAssetId,
       approvedScriptPath: approvedPerformancePath,
       technicalScriptPath: approvedTechnicalPath,
-      audioRawPath: `outputs/audio/week-two/raw/${episode.audioFilename}`,
-      audioReviewPath: `outputs/audio/week-two/review/${episode.date}_${episode.referenceSlug}_audio-review.md`,
-      videoScenePlanPath: `outputs/video/week-two/scene-plans/${episode.date}_${episode.referenceSlug}_scene-plan.md`,
+      audioRawPath: `outputs/audio/week-two/raw/${episode.assetFilenames.audio}`,
+      audioReviewPath: `outputs/audio/week-two/review/${episode.assetFilenames.audioReview}`,
+      videoScenePlanPath: `outputs/video/week-two/scene-plans/${episode.assetFilenames.scenePlan}`,
       elevenLabsStatus: "READY",
       audioReviewStatus: "NOT_STARTED",
       videoStatus: "READY_FOR_PLANNING",

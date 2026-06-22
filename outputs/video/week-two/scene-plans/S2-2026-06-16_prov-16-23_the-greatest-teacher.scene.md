@@ -1,6 +1,7 @@
-# Scene Plan - 2026-06-15 - Turn Down The Heat
+# Scene Plan - S2-2026-06-16_prov-16-23_the-greatest-teacher
 
-Scripture: Proverbs 15:1 (NET)
+Episode Asset ID: S2-2026-06-16_prov-16-23_the-greatest-teacher
+Scripture: Proverbs 16:23 (NKJV)
 Audio status required: AUDIO_APPROVED before production begins
 
 ## Hook Visual

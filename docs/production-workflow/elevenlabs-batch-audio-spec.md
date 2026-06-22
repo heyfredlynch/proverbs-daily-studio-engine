@@ -47,7 +47,7 @@ Create one audio file per episode.
 Naming format:
 
 ```text
-YYYY-MM-DD_proverbs-daily_proverbs-CH-VERSE_episode-slug.mp3
+S{season}-YYYY-MM-DD_prov-CH-VERSE_episode-slug.mp3
 ```
 
 Save raw audio to:

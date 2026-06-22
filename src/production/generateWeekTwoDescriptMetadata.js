@@ -9,6 +9,13 @@ const SPEAKERS = {
   avatar: "Fred Daily Wisdom",
   narrator: "Fred Narrator",
 };
+const SELECTED_MUSIC_BEDS = {
+  "Proverbs 14:30": {
+    selected: "PainChangeThangs - Lo-Fi R&B Slow-Jam Alt.mp3",
+    driveFileId: "16J_ho_x8zsCIch3t4NNSkUQN5qFArGdH",
+    mood: "tender lo-fi R&B",
+  },
+};
 
 const EPISODE_VIDEO_METADATA = {
   "Proverbs 14:30": {
@@ -185,6 +192,19 @@ function descriptSceneModel() {
   };
 }
 
+function musicBedForEpisode(episode) {
+  if (SELECTED_MUSIC_BEDS[episode.scriptureReference]) {
+    return SELECTED_MUSIC_BEDS[episode.scriptureReference];
+  }
+
+  return {
+    selected: null,
+    driveFileId: null,
+    mood: episode.musicMood,
+    status: "NEEDS_SELECTION",
+  };
+}
+
 function buildHandoffPacket(manifest) {
   return {
     week: manifest.week,
@@ -199,6 +219,7 @@ function buildHandoffPacket(manifest) {
       avatarLines: episode.avatarLines,
       brollKeywords: episode.brollKeywords,
       musicMood: episode.musicMood,
+      musicBed: episode.musicBed,
       descriptSceneModel: episode.descriptSceneModel,
       videoStatus: episode.videoStatus,
     })),
@@ -221,6 +242,7 @@ function run() {
     episode.avatarLines = buildAvatarLines(episode, approvedSection);
     episode.brollKeywords = metadata.brollKeywords;
     episode.musicMood = metadata.musicMood;
+    episode.musicBed = musicBedForEpisode(episode);
     episode.descriptSceneModel = descriptSceneModel();
     episode.videoStatus = "READY_FOR_DESCRIPT_BUILD";
   }
@@ -244,5 +266,6 @@ if (require.main === module) {
 module.exports = {
   buildHandoffPacket,
   buildAvatarLines,
+  musicBedForEpisode,
   parseApprovedSections,
 };

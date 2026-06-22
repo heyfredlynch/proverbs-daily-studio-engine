@@ -1,0 +1,26 @@
+{
+  "warehouseFolder": "D:\\GoogleDriveCache\\.shortcut-targets-by-id\\19s8jG5eKtNQ7wQRcQJX10VRlG2UQxJuM\\SacredStudios-ProverbsDaily\\04-AUDIO\\Music-Beds",
+  "driveFolderUrl": "https://drive.google.com/drive/folders/19s8jG5eKtNQ7wQRcQJX10VRlG2UQxJuM",
+  "records": [
+    {
+      "filename": "PainChangeThangs - Lo-Fi R&B Slow-Jam Alt.mp3",
+      "localPath": "D:\\GoogleDriveCache\\.shortcut-targets-by-id\\19s8jG5eKtNQ7wQRcQJX10VRlG2UQxJuM\\SacredStudios-ProverbsDaily\\04-AUDIO\\Music-Beds\\PainChangeThangs - Lo-Fi R&B Slow-Jam Alt.mp3",
+      "driveFileId": "16J_ho_x8zsCIch3t4NNSkUQN5qFArGdH",
+      "mood": "tender lo-fi R&B",
+      "tags": ["lo-fi", "r&b", "tender", "reflective", "peace", "healing"],
+      "rightsOwner": "Fred Lynch / Sacred Studios",
+      "source": "Suno",
+      "notes": "Claude selected as first choice for Proverbs 14:30, The Rhythm of a Sound Heart."
+    },
+    {
+      "filename": "Sweet-and-Tender.mp3",
+      "localPath": "D:\\GoogleDriveCache\\.shortcut-targets-by-id\\19s8jG5eKtNQ7wQRcQJX10VRlG2UQxJuM\\SacredStudios-ProverbsDaily\\04-AUDIO\\Music-Beds\\Sweet-and-Tender.mp3",
+      "driveFileId": null,
+      "mood": "sweet tender reflective",
+      "tags": ["tender", "reflective", "warm", "peaceful"],
+      "rightsOwner": "Fred Lynch / Sacred Studios",
+      "source": "Suno",
+      "notes": "Claude selected as second choice for Proverbs 14:30. Drive file ID needed."
+    }
+  ]
+}

@@ -24,6 +24,11 @@
         "musical rhythm wave abstract animation"
       ],
       "musicMood": "contemplative lo-fi gospel",
+      "musicBed": {
+        "selected": "PainChangeThangs - Lo-Fi R&B Slow-Jam Alt.mp3",
+        "driveFileId": "16J_ho_x8zsCIch3t4NNSkUQN5qFArGdH",
+        "mood": "tender lo-fi R&B"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -61,6 +66,12 @@
         "thermostat cooling warm room metaphor"
       ],
       "musicMood": "gentle ambient hip-hop",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "gentle ambient hip-hop",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -98,6 +109,12 @@
         "glowing route line recalculating abstract"
       ],
       "musicMood": "warm reflective soul",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "warm reflective soul",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -135,6 +152,12 @@
         "hands clearing kitchen counter peacefully"
       ],
       "musicMood": "warm reflective gospel",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "warm reflective gospel",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -172,6 +195,12 @@
         "microphone with warm light and gentle shadows"
       ],
       "musicMood": "hopeful cinematic gospel",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "hopeful cinematic gospel",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -209,6 +238,12 @@
         "algorithm flowchart dissolving into calm path"
       ],
       "musicMood": "thoughtful neo-soul worship",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "thoughtful neo-soul worship",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",
@@ -246,6 +281,12 @@
         "quiet faithful walk through doorway"
       ],
       "musicMood": "soulful cinematic reflection",
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "soulful cinematic reflection",
+        "status": "NEEDS_SELECTION"
+      },
       "descriptSceneModel": {
         "scenes": [
           "OPEN",

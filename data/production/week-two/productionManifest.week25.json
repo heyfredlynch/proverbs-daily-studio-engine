@@ -68,6 +68,11 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": "PainChangeThangs - Lo-Fi R&B Slow-Jam Alt.mp3",
+        "driveFileId": "16J_ho_x8zsCIch3t4NNSkUQN5qFArGdH",
+        "mood": "tender lo-fi R&B"
       }
     },
     {
@@ -132,6 +137,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "gentle ambient hip-hop",
+        "status": "NEEDS_SELECTION"
       }
     },
     {
@@ -196,6 +207,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "warm reflective soul",
+        "status": "NEEDS_SELECTION"
       }
     },
     {
@@ -260,6 +277,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "warm reflective gospel",
+        "status": "NEEDS_SELECTION"
       }
     },
     {
@@ -324,6 +347,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "hopeful cinematic gospel",
+        "status": "NEEDS_SELECTION"
       }
     },
     {
@@ -388,6 +417,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "thoughtful neo-soul worship",
+        "status": "NEEDS_SELECTION"
       }
     },
     {
@@ -452,6 +487,12 @@
           "avatar": "Fred Daily Wisdom",
           "narrator": "Fred Narrator"
         }
+      },
+      "musicBed": {
+        "selected": null,
+        "driveFileId": null,
+        "mood": "soulful cinematic reflection",
+        "status": "NEEDS_SELECTION"
       }
     }
   ]

@@ -20,7 +20,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-14_prov-14-30_the-rhythm-of-a-sound-heart",
@@ -40,7 +40,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "A sound heart has a rhythm. Not frantic, not comparing, but steady enough to give life.",
+        "pivot": "You are not stuck with envy as your rhythm. Gratitude can tune the heart again.",
+        "close": "A quiet heart can heal what envy keeps inflaming. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse adults in calm morning prayer",
+        "CPR training hands keeping steady rhythm",
+        "phone apps draining battery abstract visual",
+        "heart monitor gentle pulse close up",
+        "multiethnic friends celebrating without comparison",
+        "quiet room with soft sunlight and journal",
+        "musical rhythm wave abstract animation"
+      ],
+      "musicMood": "contemplative lo-fi gospel",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-15",
@@ -56,7 +84,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-15_prov-15-1_you-know-that-thing-magnets-do",
@@ -76,7 +104,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "You know that thing magnets do? Turn one around, and suddenly there is invisible resistance.",
+        "pivot": "A gentle answer is trained strength. It creates space for peace to enter the room.",
+        "close": "Try softer, not harder; wisdom cools what anger started. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse coworkers having calm conversation",
+        "magnets repelling on clean tabletop",
+        "family kitchen tension softening",
+        "invisible force field abstract light wave",
+        "person pausing before replying to text",
+        "community mediation circle respectful listening",
+        "thermostat cooling warm room metaphor"
+      ],
+      "musicMood": "gentle ambient hip-hop",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-16",
@@ -92,7 +148,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-16_prov-16-23_the-greatest-teacher.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-16_prov-16-23_the-greatest-teacher",
@@ -112,7 +168,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "GPS has made us both bold and helpless. One little word can change the whole mood: rerouting.",
+        "pivot": "Your heart can teach your mouth before your words take the wrong exit.",
+        "close": "Self-taught by God, my heart tutors every word. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse rideshare driver using GPS at dusk",
+        "navigation app rerouting on dashboard",
+        "person pausing before difficult conversation",
+        "classroom chalkboard wisdom metaphor",
+        "road fork with soft sunrise",
+        "close up of thoughtful speaker at microphone",
+        "glowing route line recalculating abstract"
+      ],
+      "musicMood": "warm reflective soul",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-17",
@@ -128,7 +212,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-17_prov-17-1_quiet-tastes-better.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-17_prov-17-1_quiet-tastes-better",
@@ -148,7 +232,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "A simple table can become a feast when peace is present.",
+        "pivot": "Sometimes wisdom is not walking into the fight. Sometimes wisdom is making the room easier to breathe in.",
+        "close": "Quiet tastes better when peace helps the soul absorb. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse family sharing simple meal peacefully",
+        "dry bread on rustic table warm light",
+        "quiet kitchen after conflict resolves",
+        "empty dining room with calm atmosphere",
+        "gentle apology between friends at home",
+        "breathing room abstract soft light",
+        "hands clearing kitchen counter peacefully"
+      ],
+      "musicMood": "warm reflective gospel",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-18",
@@ -164,7 +276,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-18_prov-18-21_eat-your-words.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-18_prov-18-21_eat-your-words",
@@ -184,7 +296,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "Spoken words can feel free until the bill arrives.",
+        "pivot": "Speak words today you would not mind living on tomorrow.",
+        "close": "Indulge life-giving words; you'll gladly eat that fruit. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse teacher encouraging student",
+        "text message being typed then paused",
+        "comment thread transforming into calm dialogue",
+        "fruit growing from spoken words abstract",
+        "parent blessing child at doorway",
+        "apology between friends in coffee shop",
+        "microphone with warm light and gentle shadows"
+      ],
+      "musicMood": "hopeful cinematic gospel",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-19",
@@ -200,7 +340,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-19_prov-19-21_whats-your-algorithm.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-19_prov-19-21_whats-your-algorithm",
@@ -220,7 +360,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "All of us have patterns running under the surface, almost like an inner algorithm.",
+        "pivot": "There is something stronger than the algorithm. The counsel of the Lord stands.",
+        "close": "Your inner algorithm needs God's counsel to stand. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse person journaling repeated reactions",
+        "abstract code overlay on human heart",
+        "community prayer group listening quietly",
+        "person pausing before defensive response",
+        "old machinery becoming new light metaphor",
+        "mentor conversation in urban park",
+        "algorithm flowchart dissolving into calm path"
+      ],
+      "musicMood": "thoughtful neo-soul worship",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     },
     {
       "date": "2026-06-20",
@@ -236,7 +404,7 @@
       "videoScenePlanPath": "outputs/video/week-two/scene-plans/S2-2026-06-20_prov-20-24_walking-without-the-whole-map.scene.md",
       "elevenLabsStatus": "GENERATED",
       "audioReviewStatus": "READY_FOR_REVIEW",
-      "videoStatus": "READY_FOR_PLANNING",
+      "videoStatus": "READY_FOR_DESCRIPT_BUILD",
       "publishStatus": "NOT_STARTED",
       "outroComponent": "proverbs-daily-standard-outro",
       "episodeAssetId": "S2-2026-06-20_prov-20-24_walking-without-the-whole-map",
@@ -256,7 +424,35 @@
       "cadenceRoyaltyStatus": "NEEDS_RIGHTS_REVIEW",
       "rightsOwner": "Sacred Studios",
       "recordingArtist": "Fred Lynch",
-      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA"
+      "musicBedStatus": "NEEDS_MUSIC_BED_METADATA",
+      "avatarLines": {
+        "open": "Sometimes your steps can be ordered by God before they are understood by you.",
+        "pivot": "Maybe God is not giving you the whole map. Maybe He is giving you the next faithful step.",
+        "close": "Ordered steps may feed someone before they make sense. Be Wise. Be Well."
+      },
+      "brollKeywords": [
+        "diverse minister driving rainy back road at night",
+        "headlights on dark pine tree highway",
+        "small church community gathering warmly",
+        "road map fading into single lit step",
+        "person helping young people in neighborhood",
+        "rain on windshield reflective close up",
+        "quiet faithful walk through doorway"
+      ],
+      "musicMood": "soulful cinematic reflection",
+      "descriptSceneModel": {
+        "scenes": [
+          "OPEN",
+          "SCRIPTURE",
+          "TEACHING",
+          "PIVOT",
+          "CLOSE"
+        ],
+        "speakers": {
+          "avatar": "Fred Daily Wisdom",
+          "narrator": "Fred Narrator"
+        }
+      }
     }
   ]
 }

@@ -13,9 +13,11 @@
     "audio:week-two:generate": "node src/production/generateWeekTwoElevenLabsAudio.js --generate",
     "archive:week-two:audio": "node src/production/archiveWeekTwoAudioToWarehouse.js",
     "cadence:week-two:prepare": "node src/production/prepareCadenceWeekTwo.js",
+    "descript:week-two:prepare": "node src/production/generateWeekTwoDescriptMetadata.js",
     "video:week-two:plan": "node src/production/createWeekTwoVideoPlans.js",
     "validate:asset-names": "node src/production/validateAssetNames.js",
     "validate:cadence": "node src/production/validateCadenceRegistry.js",
+    "validate:descript-handoff": "node src/production/validateDescriptHandoff.js",
     "validate:warehouse": "node src/production/validateWarehouseArchive.js",
     "validate:scripture": "node -e \"const { loadScriptureLibrary, getVerse } = require('./src/lib/loadScriptureLibrary'); const library = loadScriptureLibrary(); const verse = getVerse(library, { chapter: 16, verse: 9, mode: 'publication-safe' }); console.log(library.rows.length); console.log(verse.reference + ' ' + verse.translationUsed); console.log(verse.text);\""
   },
